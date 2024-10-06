@@ -1,0 +1,108 @@
+---
+title: "Welcome to MY400!"
+subtitle: The Fundamentals of Social Science Research Design
+author: Zach Dickson, PhD 
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>How to Read a Research Paper/Article</a>
+---
+
+# How to Read a Paper/Article
+
+
+
+# Good news first
+
+:::: {.columns}
+::: {.column width="49%"}
+- **Title**: Topic and information about the authors and their institutions
+- **Abstract**: High level summary, why and how of study, what they found, and what it means
+- **Introduction**: 
+  - Background information
+  - Situating the paper within the broader theoretical and empirical literature
+  - Stating its contribution
+- **Literature Review**: Sometimes included in the introduction
+:::
+::: {.column width="49%"}
+- **Methodology**:
+  - Research design and methods to collect data
+  - Analysis of data
+  - Study limitations
+- **Results and Discussion**: 
+  - Data with figures, tables, and graphs
+  - Interpretation of data
+- **Conclusion**: 
+  - What does the data mean to the topic?
+  - How does it relate to existing literature?
+:::
+::::
+
+
+# How to read a paper/article
+
+- Plan at least **3-6 hours** to read a paper fully.
+- **Take several passes** through the paper to extract different levels of information.
+- You don't need to read the paper in a linear way from start to finish!
+
+**While reading, ask yourself:**
+
+- What is the author trying to say?
+- What motivates the exploration of this topic?
+- What does the research contribute?
+- What are the main arguments?
+
+(Source: Keshav S. (2007))
+
+
+# How to read a paper/article - AIC Approach
+
+1. **Start with the Abstract, Introduction, and Conclusion (AIC)**
+   - Read Title, Abstract, and Introduction first.
+   - Understand the main goals and context.
+2. Read the **Conclusion**:
+   - Get a summary of the study's findings.
+3. **Examine graphs and figures** to understand what the authors highlight.
+4. For this course, **focus on the Methodology** to understand the research design.
+
+---
+
+# Reading in Depth
+
+- After AIC, start from the beginning.
+- Take **notes** for each section:
+  - **Introduction**: Write a summary.
+  - **Methodology**: Write a summary.
+- Don't worry if you don’t fully understand graphs, figures and tables initially.
+
+
+# Generating Questions
+
+- Reading is an **active task**:
+  - Who are the authors?
+  - What problem does the research address?
+  - Is the method used the best one?
+  - What are the findings and applications?
+
+(Source: [Purugganan & Hewitt (2004)](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf))
+
+
+
+# Seminar Activity
+
+- Access collaborative slides via Moodle.
+- Split into four groups to discuss seminar questions.
+- OneDrive access required (LSE account).
+
+---
+
