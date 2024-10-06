@@ -18,8 +18,8 @@ This repository contains the following materials:
 
 ## How to Use This Repository
 
-- **Weekly Materials**: Access the materials for each week under the respective folders.
-- **Readings**: Find essential and additional readings under the `readings` folder.
+- **Weekly Materials**: Access the slides for each week under the respective 'week' folders (e.g. `week2` for week 2)
+- **Readings**: Find essential readings in the `readings` folder for each respective week. 
 
 ## Getting Started
 
