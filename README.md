@@ -14,8 +14,7 @@ Research design is crucial for the production of credible evidence and robust th
 
 This repository contains the following materials:
 - Seminar slides
-- Seminar readings and resources
-- Additional methodological readings
+- Additional readings, where helpful
 
 ## How to Use This Repository
 
