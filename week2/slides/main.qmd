@@ -1,5 +1,5 @@
 ---
-title: "Welcome to MY400!"
+title: "Welcome to MY400"
 subtitle: The Fundamentals of Social Science Research Design
 author: Zach Dickson, PhD 
 institute: London School of Economics
@@ -15,14 +15,38 @@ format:
     citation_package: biblatex
     transition-speed: fast
     theme: [simple, custom.scss]
-    footer: <a>How to Read a Research Paper/Article</a>
+    footer: <a>Week 2 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
 ---
+
+# Introductions 
+
+<br>
+
+I'll start...
+
+# Course Notes 
+
+- Moodle (first stop)
+- LSE Timetables - lectures
+- Github - slides presented in the seminar
+- Office hours
+	- booking through LSE Student Hub - available 10-1130 on Thursdays
+- Methods Surgery -- booking on the Department of Methodology website
+
+# Q&A about the lecture
+
+# Where have students struggled in past?
+
+- Capstone project
+- Research Design
+- Connecting theory to empirics  
+
 
 # How to Read a Paper/Article
 
 
 
-# Good news first
+# Template
 
 :::: {.columns}
 ::: {.column width="49%"}
@@ -65,7 +89,7 @@ format:
 (Source: Keshav S. (2007))
 
 
-# How to read a paper/article - AIC Approach
+# AIC Approach
 
 1. **Start with the Abstract, Introduction, and Conclusion (AIC)**
    - Read Title, Abstract, and Introduction first.
@@ -75,7 +99,6 @@ format:
 3. **Examine graphs and figures** to understand what the authors highlight.
 4. For this course, **focus on the Methodology** to understand the research design.
 
----
 
 # Reading in Depth
 
@@ -96,13 +119,139 @@ format:
 
 (Source: [Purugganan & Hewitt (2004)](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf))
 
+# To summarise
+
+- We learn what has been done before, which is fundamental to cumulative knowledge;
+- We acquire language to speak about it, such as concepts;
+- We expand our imagination about what it is possible to do in relation to our topic of interest or the phenomenon we want to investigate;
+- We become more critical about what looks convincing and what does not;
+- We acquire models and templates that we can use as examples in our own research (which is different from plagiarism!)
 
 
-# Seminar Activity
 
-- Access collaborative slides via Moodle.
-- Split into four groups to discuss seminar questions.
-- OneDrive access required (LSE account).
+# Discussion Activities
 
----
+
+- Split into groups to discuss seminar questions
+- 1-2 each week
+	- one will include the essential reading 
+
+
+
+
+# Discussion 1     
+
+
+- Is your experience of reading academic articles similar to the strategies presented by the teacher?
+- What do you experience as your main challenges in reading academic articles?
+- Is there anything that you have not understood, that is not clear for you in the presentation?
+
+<br><br>
+
+
+::: {.footer}
+Discussion Activity 1
+:::
+
+
+# Discussion 2
+
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+
+
+
+	
+::: {.footer}
+Discussion Activity 2
+:::
+
+# Discussion 2
+
+
+
+- What are the key differences between gap-spotting and problematization in constructing research questions?
+	- Discuss how each approach impacts the development of significant and innovative theories in organizational studies.
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+
+# Discussion 2
+
+
+
+- Why is gap-spotting the dominant approach in research question formulation, despite the emphasis on theory challenging for creating interesting research?
+	- What social norms or academic pressures reinforce the preference for gap-spotting?
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+# Discussion 2
+
+
+- How might problematization contribute to more interesting and influential research, and what are the challenges associated with it?
+	- Reflect on why problematization is less frequently used despite its potential benefits.
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+# Discussion 2
+
+
+- In what ways do institutional norms, such as journal publication standards and academia's reward systems, shape the construction of research questions?
+	- How might these norms hinder more critical and disruptive research approaches?
+
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+# Discussion 2
+
+
+
+- How can researchers balance the need for academic credibility with the pursuit of innovative, assumption-challenging research questions?
+	- Discuss strategies that might encourage more problematization in research without jeopardizing academic recognition or publication success.
+
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+
+# What Questions Can I Answer?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
