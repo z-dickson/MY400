@@ -192,7 +192,7 @@ Discussion Activity 2
 
 
 - What are the key differences between gap-spotting and problematization in constructing research questions?
-	- Discuss how each approach impacts the development of significant and innovative theories in organizational studies.
+	- Discuss the extent to which each approach impacts the development of significant and innovative theories in organizational studies.
 
 ::: {.footer}
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
@@ -204,7 +204,7 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 
 
 - Why is gap-spotting the dominant approach in research question formulation, despite the emphasis on theory challenging for creating interesting research?
-	- What social norms or academic pressures reinforce the preference for gap-spotting?
+	- What social norms or academic pressures reinforce the preference for gap-spotting and to what extent do the authors provide answers to these questions in the text?
 
 ::: {.footer}
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
@@ -213,8 +213,8 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 # Discussion 2
 
 
-- How might problematization contribute to more interesting and influential research, and what are the challenges associated with it?
-	- Reflect on why problematization is less frequently used despite its potential benefits.
+- Are there other ways of motivating research questions you can think of that the authors do not attend to? 
+  - Following how the authors name the approaches to gap-spotting they identify, how would you name them? 
 
 ::: {.footer}
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
