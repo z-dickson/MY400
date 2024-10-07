@@ -143,16 +143,38 @@ I'll start...
 
 
 - Is your experience of reading academic articles similar to the strategies presented by the teacher?
-- What do you experience as your main challenges in reading academic articles?
-- Is there anything that you have not understood, that is not clear for you in the presentation?
+  - What are the main differences between your approach and the one presented?
 
-<br><br>
 
 
 ::: {.footer}
 Discussion Activity 1
 :::
 
+# Discussion 1     
+
+
+
+- What do you experience as your main challenges in reading academic articles?
+  - How do you think you could overcome these challenges?
+
+
+
+::: {.footer}
+Discussion Activity 1
+:::
+
+# Discussion 1     
+
+
+- Is there anything that you have not understood, that is not clear for you in the presentation?
+  - What would you like to know more about?
+
+
+
+::: {.footer}
+Discussion Activity 1
+:::
 
 # Discussion 2
 
