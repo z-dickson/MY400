@@ -1,0 +1,320 @@
+---
+title: "Welcome to MY400"
+subtitle: The Fundamentals of Social Science Research Design
+author: Zach Dickson, PhD 
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>Week 3 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
+---
+
+
+# Week 3: The Relationship between Theory and Data
+
+
+
+# Overview of Today's Seminar
+
+**Objectives:**
+
+- Understanding theory as a way of thinking and seeing
+- The role of data in research design
+- Combining theory and data for impactful research
+
+**Activities:**
+
+1. Q&A about the lecture
+2. **Discussion 1**: Research puzzles and questions
+3. **Discussion 2**: Case studies (Fiorito & Nicholls, 2016 and Legate et al., 2022)
+
+
+
+# Lecture Recap: Theory and Data
+
+- **Theory**: A framework to interpret and explain social/political phenomena
+- **Data**: Empirical observations organized by research design and theoretical framework
+- **Theory-Data Relationship**:
+  - **Deductive**: Start with theory, test in specific contexts
+  - **Inductive**: Start with empirical insights, develop broader generalizations
+  - **Abductive**: Look for deviant cases, refine existing knowledge
+
+
+
+# Key Take-Aways
+
+- Theory provides a "way of seeing" that adds clarity to empirical observations
+  - Theory is cumulative and evolves over time
+- Alignment between theory, research questions, and methods is crucial
+- Concepts help build a solid theoretical framework for analysis
+
+
+
+# Questions or Comments?
+
+
+
+# Discussion 1: From Research Puzzles to Research Questions
+
+
+
+
+
+# Mason's typology of intellectual puzzles
+
+1. **Developmental**: How things change over time
+2. **Mechanical**: How things work or function
+3. **Causal**: What causes certain phenomena
+4. **Comparative**: What is likely to happen in future cases
+
+
+
+
+# Developmental Puzzles
+
+<br><br>
+
+**Developmental**: How things change over time
+
+<br><br>
+
+How does x or y change over time? Why does it change in this way?​ X or y might be anything – a social institution, a cultural practice, a​ political system, a set of beliefs, and so on.​
+
+
+# Mechanical Puzzles
+
+<br><br>
+
+**Mechanical**: How things work or function
+
+<br><br>
+
+How does x or y work? What are the mechanisms that make it work?​ This could involve looking at the internal workings of a social institution, a cultural practice, a political system, a set of beliefs, and so on.​
+
+
+# Comparative Puzzles
+​
+<br><br>
+
+**Comparative**: Comparing across different contexts or cases
+
+<br><br>
+
+How does x or y differ across different contexts or cases? Why does it differ in this way?​ This could involve looking at the differences between social institutions, cultural practices, political systems, sets of beliefs, and so on.​
+
+
+# Causal Puzzles
+
+<br><br>
+
+**Causal or Predictive:** What causes certain phenomena? 
+
+<br><br>
+
+What causes Y? What happens to Y when X changes? This could involve looking at the causes of social phenomena, the causes of​ individual behaviour, the causes of social change, and so on.​ This may also regard predictive puzzles, which are about what is likely to happen in future cases given certain conditions or interventions
+
+
+
+## Discussion 1 Exercise: Research Puzzles from Abstracts
+
+<br><br>
+
+
+1. **Evans (2018)**: Pro-worker reforms
+2. **Galiani et al. (2005)**: Impact of water privatization on child mortality
+3. **Pierotti et al. (2018)**: Gender hierarchies and men’s discussion groups
+4. **Cornish & Campbell (2009)**: Peer education in health interventions
+
+**Tasks:**
+
+- Identify the research puzzle in each abstract
+- Frame a corresponding research question
+- Classify each puzzle based on Jennifer Mason's typology of intellectual puzzles
+
+
+## Evans (2018)
+
+**The Politics of Pro-Worker Reforms**
+
+
+**Abstract**
+
+*This paper explores the drivers of pro-worker reforms in Vietnam. It shows how commerce, trade deals, aid and geopolitics strengthened support for higher wages, social dialogue and freedom of association. Strikes have triggered Government concerns about regime legitimacy. Manufactures are also keen to resolve strikes and propitiate reputation-conscious buyers. Reform was further incentivized by TPP’s stipulation of Freedom of Association, together with economic and geopolitical incentives to join TPP. Donor-supported pilots have not motivated reform, but are nonetheless important: enabling reformists to explore new ideas; iteratively adapt; garner evidence of what furthers their priorities; with which they can persuade anxious colleagues. None of these forces are deterministic. They merely stimulate debate, authorize experimentation and are used by coalitions to push for reform. By tracing the politics of pro-worker reforms, this study draws attention to drivers often overlooked by donors: strikes, commerce, and trade deals.*
+
+<br>
+
+
+::: {.callout-note}
+
+## Tasks: 
+
+- Identify the research puzzle in each abstract
+- Frame a corresponding research question
+- Classify each puzzle based on Jennifer Mason's typology of intellectual puzzles
+
+:::
+
+
+
+
+
+## Galiani et al. (2005)
+
+**Water for Life: The Impact of the Privatization of Water Services on Child Mortality**
+
+
+**Abstract**
+
+*While most countries are committed to increasing access to safe water and thereby reducing child mortality, there is little consensus on how to actually improve water services. One important proposal under discussion is whether to privatize water provision. In the 1990s Argentina embarked on one of the largest privatization campaigns in the world, including the privatization of local water companies covering approximately 30 percent of the country’s municipalities. Using the variation in ownership of water provision across time and space generated by the privatization process, we find that child mortality fell 8 percent in the areas that privatized their water services and that the effect was largest (26 percent) in the poorest areas. We check the robustness of these estimates using cause‐specific mortality. While privatization is associated with significant reductions in deaths from infectious and parasitic diseases, it is uncorrelated with deaths from causes unrelated to water conditions.*
+
+<br>
+
+
+::: {.callout-note}
+
+## Tasks: 
+
+- Identify the research puzzle in each abstract
+- Frame a corresponding research question
+- Classify each puzzle based on Jennifer Mason's typology of intellectual puzzles
+
+:::
+
+
+## Pierotti et al. (2018)  
+
+**Equality on His Terms: Doing and Undoing Gender through Men’s Discussion Groups**
+
+
+**Abstract**
+
+*Efforts to promote gender equality often encourage changes to interpersonal interactions as a way of undermining gender hierarchy. Such programs are premised on the idea that the gender system can be “undone” when individuals behave in ways that challenge prevailing gender norms. However, scholars know little about whether and under what conditions real changes to the gender system can result from changed behaviors. We use the context of a gender sensitization program in the Democratic Republic of Congo to examine prospects for transformative change at the interactional level of the gender system. Over nine months, we observed significant changes in men’s quotidian practices. Further, we identified a new commitment among many men to a more equal division of household labor. However, participants consistently undermined the transformative potential of these behavioral changes through their dedication to maintaining control over the objective, process, and meaning of change, resisting conceptions of equality that challenged the gender system. Because quotidian changes left gender hierarchy intact, they appear unlikely to destabilize the logics that legitimate women’s subordination.*
+
+<br>
+
+
+::: {.callout-note}
+
+## Tasks: 
+
+- Identify the research puzzle in each abstract
+- Frame a corresponding research question
+- Classify each puzzle based on Jennifer Mason's typology of intellectual puzzles
+
+:::
+
+
+
+
+## Cornish & Campbell (2009)  
+
+**Equality on His Terms: Doing and Undoing Gender through Men’s Discussion Groups**
+
+
+**Abstract**
+
+*Peer education is a community-based intervention being implemented worldwide as an approach to HIV prevention. However, its results are inconsistent, with little consensus on why some projects succeed while others fail. Considering peer education as an ‘intervention-in-context’, we systematically compare the context and the implementation of two peer education interventions run by sex workers, one in India and one in South Africa, which produced contrasting outcomes. In so doing, we aim to identify key factors in the projects’ successes or failures that may inform future peer education efforts. The Indian project’s relative success was facilitated (1) by a more stable and supportive social, material and political context, and (2) by a community development ethos which devoted significant resources to sex workers’ involvement, ownership and empowerment, as opposed to a biomedical approach which marginalised sex workers’ concerns. We conclude with lessons learned and implications for current trends in peer education.*
+
+<br>
+
+
+::: {.callout-note}
+
+## Tasks: 
+
+- Identify the research puzzle in each abstract
+- Frame a corresponding research question
+- Classify each puzzle based on Jennifer Mason's typology of intellectual puzzles
+
+:::
+
+
+
+
+# How about your research puzzle
+
+- Share your thoughts on your research puzzle and question
+- What makes a good research puzzle? Why is framing it as a puzzle valuable for readers?
+
+
+# Discussion 2: 
+
+<br>
+
+**Fiorito & Nicholls (2016)**
+
+
+- What is the theoretical framework used in this article? 
+- What are the key concepts? 
+- What types of data collection strategies do the authors put into place to collect their data?
+- How do the authors align their research design with their theoretical framework?
+
+
+# Discussion 2: 
+
+<br>
+
+**Fiorito & Nicholls (2016)**
+
+
+- Fiorito and Nicholls do not formally pose research questions that they seek to answer through their research.  Do the work for them. Come up with 2-3 research questions for this study. 
+    - Try thinking about different sorts of questions that the paper addresses. 
+
+<br>
+
+
+# Discussion 2: 
+
+<br>
+
+**Legate et al. (2022)**
+
+
+- What is the theoretical framework used in this article? 
+- What are the key concepts? 
+- What types of data collection strategies do the authors put into place to collect their data?
+- How do the authors use theory to frame their research questions?
+
+
+
+# Discussion 2: 
+
+<br>
+
+**Legate et al. (2022)**
+
+
+- How do Legate et al. (2022) use theory differently than Fiorito & Nicholls (2016)?
+    - What are the implications of these differences for the research design and findings of the two studies?
+
+<br>
+
+
+
+
+
+# Seminar Wrap-Up
+
+- **Key Takeaways**:
+  - Theory helps frame research puzzles and guide methods
+  - The relationship between theory and data varies across different types of research designs
+  - Align your research question, theory, and data collection method for clarity and impact
+
+
+
+# Next Steps
+
+- **Prepare for next week's seminar**:
+  - Desk-based research 
+  - Think about how your own research proposal is taking shape
+
+**Any final questions or reflections?**
