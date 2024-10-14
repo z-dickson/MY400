@@ -1,6 +1,6 @@
 ---
-title: "Welcome to MY400"
-subtitle: The Fundamentals of Social Science Research Design
+title: "The Relationship between Theory and Data"
+subtitle: "MY400 Week 3: The Fundamentals of Research Design"
 author: Zach Dickson, PhD 
 institute: London School of Economics
 bibliography: references.bib
@@ -17,9 +17,6 @@ format:
     theme: [simple, custom.scss]
     footer: <a>Week 3 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
 ---
-
-
-# Week 3: The Relationship between Theory and Data
 
 
 
