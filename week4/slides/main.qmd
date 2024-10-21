@@ -116,7 +116,7 @@ Knopf (2006) highlights the role of literature reviews:
 
 **Research Question(s):​** 
 
-*Given that Facebook advertising data covers a large number of countries (because of high worldwide Facebook penetration) and can provide gender-based country-level estimates. We also have national-level development indicators that are strongly correlated with digital divides.*
+*Given that Facebook advertising data covers a large number of countries (because of high worldwide Facebook penetration) and can provide gender-based country-level estimates, and that we also have national-level development indicators that are strongly correlated with digital divides...*
 
 - Can both sets of data be used to estimate gender gaps in internet and mobile phone access in countries across the world that we do not already have good data on?​
 
@@ -161,7 +161,7 @@ Knopf (2006) highlights the role of literature reviews:
 3. Outline **three relevant topics** for the literature review:
    - Example: Gender gaps in ICT, predictors, and data modeling techniques.
 4. Use **Google Scholar** to find at least 3 sources.
-5. Summarize key points and share with the class.
+5. Summarize key gaps, contributions and methods to share with the class.
 
 
 
