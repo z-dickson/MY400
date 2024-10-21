@@ -27,9 +27,50 @@ format:
 - Any lingering questions from the lecture?
 - Let's discuss any confusing points (5 minutes)
 
----
 
-# Purpose of Literature Reviews
+
+# What is a Literature Review?
+- A literature review **summarizes and evaluates** a body of writings on a specific topic.
+- Two key components:
+  - **Summary** of prior research findings or claims.
+  - **Evaluation** of the accuracy, completeness, and gaps in the literature.
+- It is not just a list of summaries, but a **synthesis** of the existing research.
+
+
+
+# Benefits of Conducting a Literature Review
+- Provides a **general overview** of unfamiliar research.
+- Helps avoid **reinventing the wheel** by identifying what has already been done.
+- Generates **new ideas** and reveals **flaws** or gaps in existing research.
+- **Places your research in context**, highlighting potential contributions.
+
+
+
+# Three Contexts for Literature Reviews
+1. **Standalone Review**: Summarizes current knowledge on a topic (e.g., state-of-the-art reviews).
+2. **Preliminary Stage**: A required part of research proposals or theses, helping to frame contributions to knowledge.
+3. **Component of a Finished Report**: Builds upon the proposal review to link final conclusions to previous literature.
+
+
+
+# Framing Contributions to Knowledge
+- Knowledge refers to both **beliefs** and the **confidence** with which we hold them.
+- Literature reviews can:
+  - **Introduce new ideas**, theories, or information.
+  - **Alter existing beliefs** or change the confidence in those beliefs.
+  - Strengthen or challenge the current understanding of a topic.
+
+
+
+# Tips for Creating an Effective Literature Review
+1. **Be selective**—focus on studies relevant to your research.
+2. **Organize by themes**—group studies into schools of thought or theories.
+3. **Critically assess** the assumptions, logic, evidence, and methodologies of the studies.
+4. Identify **areas of consensus, debate, and gaps** to frame your research's contribution.
+
+
+
+# To summarize...
 
 Knopf (2006) highlights the role of literature reviews:
 
@@ -47,17 +88,6 @@ Knopf (2006) highlights the role of literature reviews:
 
 
 
-# Literature Review: Key Components
-
-1. **Introduction**: 
-   - **Motivation** for the research question.
-   - **Relevance** to broader topics.
-2. **Main Arguments**:
-    - **Consensus** and **disagreement**.
-    - **Assumptions**, **logic**, and **methodology**.
-3. **State of Knowledge**:
-    - **Gaps** in the literature.
-    - **Future research directions**.
 
 
 
@@ -86,14 +116,13 @@ Knopf (2006) highlights the role of literature reviews:
 
 **Research Question(s):​** 
 
-- Facebook advertising data covers a large number of countries (because of high worldwide Facebook penetration) and can provide gender-based country-level estimates. We also have national-level development indicators that are strongly correlated with digital divides. ​
+*Given that Facebook advertising data covers a large number of countries (because of high worldwide Facebook penetration) and can provide gender-based country-level estimates. We also have national-level development indicators that are strongly correlated with digital divides.*
 
 - Can both sets of data be used to estimate gender gaps in internet and mobile phone access in countries across the world that we do not already have good data on?​
 
 - Do these data explain variation in gender gaps in the countries that we do have good data on (the ‘training’ dataset)?​
 
 - If so, can we use the models to make ‘out-of-sample’ predictions in countries that we do not have good data on?
-
 
 
 
@@ -124,7 +153,6 @@ Knopf (2006) highlights the role of literature reviews:
 
 
 
-
 # Individual Activity: Sketching a Literature Review 
 
 
@@ -134,8 +162,6 @@ Knopf (2006) highlights the role of literature reviews:
    - Example: Gender gaps in ICT, predictors, and data modeling techniques.
 4. Use **Google Scholar** to find at least 3 sources.
 5. Summarize key points and share with the class.
-
-
 
 
 
