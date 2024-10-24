@@ -114,14 +114,17 @@ Knopf (2006) highlights the role of literature reviews:
    - On the proliferation and growing importance of ICTs across the world, revolutionizing social, cultural and political life. 
    - ICTs are shown to be crucial to achieving key development goals (“lowers the cost of information and connectivity”), especially for marginalized groups, such as women in some low-income countries. ​
 
+
+
+
+# Example Research Outline (cont.)
+
 - **Literature Topic 2:​** 
    - Gender gaps – what we know about the magnitude and persistence, and what key predictors/explanations there are in the literature​
 
 - **Literature Topic 3:​**
    - Data Science/Computational Social Science techniques to fit models on ‘training data’, cross-validation, and out-of-sample predictions. ​
 
-
-# Example Research Outline (cont.)
 
 **Research Question(s):​** 
 
