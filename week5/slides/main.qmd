@@ -1,0 +1,178 @@
+---
+title: "From Research Questions to Research Designs"
+subtitle: "MY400 Week 5: The Fundamentals of Research Design"
+author: Zach Dickson, PhD 
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>Week 5 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
+---
+
+
+
+# From research questions to research designs
+
+<br>
+
+**Essential Readings:**
+
+<br>
+
+- Dietrich, B.J., Sands, M.L. Seeing racial avoidance on New York City streets. Nature Human Behaviour 7, 1275–1281 (2023). https://doi.org/10.1038/s41562-023-01589-7  
+
+- Jones, J. A. (2022). “They Are There with Us”: Theorizing Racial Status and Intergroup Relations. American Journal of Sociology, 128(2), 411-461. https://doi.org/10.1086/721467 
+
+
+# Questions from the Lecture?
+
+
+
+# Linking questions and designs 
+
+<br>
+
+*Seeing racial avoidance on New York City streets* (Dietrich & Sands, 2023)
+
+<br>
+
+- Key question: How do public encounters vary based on race?
+- Study relevance: The use of traffic cameras and confederates allows for **real-world**, **unobtrusive measurement**.
+- Findings: Pedestrians gave a wider berth to Black confederates compared to white.
+
+
+# Theoretical Background
+
+- **Racial avoidance**: The tendency to avoid interactions with individuals of a different 
+- **Implicit prejudice**: Unconscious behaviour that affects our actions, and decisions
+- **Institutional racism and segregation**: Discrimination is built into the structure of society, often through laws, policies, and practices
+
+
+# Research Question: Observing Racial Avoidance
+
+- **Central Research Question**: Do people exhibit different behaviors in public spaces based on racial out-group presence?
+- This question is grounded in theories of **out-group bias** and **physical space as a social indicator**.
+- Background: Prior studies show **racial bias** in conversation distance and space use but often rely on lab settings.
+
+# Connecting Question to Methodology
+
+- **Field Experiment Setup**: Confederates were stationed on NYC sidewalks, with careful controls over racial presentation.
+- Design used NYC DOT traffic cameras, providing **naturalistic observation**.
+- This design aligns with the question by providing **large-scale data** without participant awareness.
+
+# Measurement and Data Collection
+
+- **Outcome Measure**: Standardized Pedestrian Deviation (SPD) – how far pedestrians veered from confederates.
+- Importance of unobtrusive methods: SPD enables researchers to quantify non-verbal racial bias in a **real-world setting**.
+- Data Sources: Publicly available NYC traffic camera feeds.
+
+# Key Findings: Racial Avoidance on NYC Sidewalks
+
+- **Main Results**: Pedestrians gave a wider berth to Black confederates compared to white.
+  - Effects were especially notable in **non-Black pedestrians**.
+  - Findings align with theories of implicit bias.
+- **Statistical Analysis**: Used difference-in-means, OLS, and bootstrap for robust error estimates.
+
+# Importance of Methodological Choices
+
+- **Naturalistic Field Experiment**: Allows researchers to generalize findings beyond controlled lab settings.
+- **Real-Time Data Collection**: Video data allowed for a more accurate capture of pedestrian reactions.
+- **Clustered Analysis**: Used to manage dependencies within time blocks.
+
+# Implications for Research Design
+
+- Demonstrates how carefully structured experiments can capture subtle, real-world behaviors.
+- Highlights the need to **align methodology** with research goals – here, unobtrusive observation matched the goal of measuring **implicit racial bias**.
+- Potential for **replication** in other cities or with different variables, showing the flexibility of the research design.
+
+# Conclusion: Connecting Design with Broader Implications
+
+- Research design should facilitate findings that address the core question.
+- Dietrich & Sands' study illustrates the importance of context-specific design in studying **social interactions**.
+- As a tool for future research, this design can inform studies on **non-verbal racial bias** and other forms of implicit behavior.
+
+# Discussion Activity: Designing a Field Experiment
+
+- In groups, outline a field experiment on a chosen social behavior (e.g., helping behavior, seating choice) with a similar unobtrusive design.
+- Key considerations:
+  - What public space could be observed?
+  - What variables would you control?
+  - How would you address potential ethical concerns?
+
+
+# Formative Assignment: Research Proposals 
+
+
+- **Submission Deadline:* Thursday 7th November, 4pm
+- **Length:** 1-2 pages including in-text citations and reference list
+- **Format:** Word or PDF
+- **Submission:** Via Moodle
+- **Not mandatory, but highly recommended**
+
+
+# Formative Assignment: Research Proposals
+
+**Contents:**
+
+- Introduction: Research question and rationale (1-2 paragraphs)
+- Literature Review: Key theories and prior research (3-4 paragraphs)
+- Methodology: Research design, data collection, and analysis plan (3-4 paragraphs)
+
+
+# Formative Assignment: Research Questions 
+
+- **Research Question:** What is the central question you are seeking to answer in your research proposal?
+
+- **Rationale:** Why is this question important? What gap in the literature does it address?
+
+*Your research questions can be set out in paragraph or list form – either way, they should be posed as questions and should clearly be motivated by or lead on from the preceding literature review.*
+
+
+# Formative Assignment: Literature Review
+
+- **Key Theories:** What are the main theoretical frameworks that inform your research question?
+- **Prior Research:** What are the key studies that have addressed similar questions or used similar methods?
+- **Gaps in the Literature:** What are the limitations of prior research that your study will address?
+
+
+# Formative Assignment: Methodology
+
+- **Research Design:** What is the overall design of your study? What methods will you use to collect data?
+   - will you use an inductive, deductive or abductive approach?
+   - will it be a qualitative, quantitative or mixed-methods study?
+- **Data Collection:** How will you collect data? What are the key variables you will measure?
+   - will you use primary or secondary data?
+   - will you use surveys, interviews, experiments, or observational data?
+
+- **Analysis Plan:** How will you analyze your data? What statistical methods will you use?
+
+
+# Revision Meme: 
+
+- **Task:** Create a meme that summarizes the key principles of research design.
+- **Purpose:** To motivate you to revise the first part of the module and to create a collective meme bank to help you remember important principles of research design.
+- **Submission:** Post your meme on the 'Meme your research design' blog created for the module
+
+
+# Questions about the formative assignment or the revision meme?
+
+# Does anyone want to share their progress on the research proposal?
+
+
+# Next week is Reading Week
+
+- Office hours will be available for those who want to discuss their research proposals
+- No seminar next week
+
+
+
+
