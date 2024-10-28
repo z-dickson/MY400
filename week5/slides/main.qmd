@@ -12,6 +12,7 @@ format:
     slide-number: true
     preview-links: auto
     transition: fade
+    code-fold: true
     citation_package: biblatex
     transition-speed: fast
     theme: [simple, custom.scss]
@@ -168,7 +169,7 @@ format:
 # Formative Assignment: Research Proposals 
 
 
-- **Submission Deadline:* Thursday 7th November, 4pm
+- **Submission Deadline:** Thursday 7th November, 4pm
 - **Length:** 1-2 pages including in-text citations and reference list
 - **Format:** Word or PDF
 - **Submission:** Via Moodle
@@ -227,8 +228,83 @@ format:
 # Next week is Reading Week
 
 - Office hours will be available for those who want to discuss their research proposals
-- No seminar next week
+- **No seminar next week**
+
+
+## Example of a basic regression with a binary treatment 
 
 
 
+```{.r}
+###### simulate some data 
+# number of observations
+n <- 1000
+
+# binary treatment 
+x <- rbinom(n, 1, 0.5) 
+
+# error term
+e <- rnorm(n)
+
+# outcome variable
+y <- 1 + .5*x + e
+
+# run a regression
+summary(lm(y ~ x))
+```
+
+
+**Output**
+
+
+```{r}
+# simulate some data 
+set.seed(123)
+# number of observations
+n <- 1000
+# binary treatment 
+x <- rbinom(n, 1, 0.5)
+# error term
+e <- rnorm(n)
+# outcome variable
+y <- 1 + .5*x + e
+# run a regression
+summary(lm(y ~ x))
+```
+
+
+
+# Coefficient plot 
+
+```{r}
+
+# library for coefficient plots
+library(dotwhisker)
+
+# simulate some data 
+set.seed(123)
+# number of observations
+n <- 1000
+# binary treatment 
+x <- rbinom(n, 1, 0.5)
+# error term
+e <- rnorm(n)
+# outcome variable
+y <- 1 + .5*x + e
+# run a regression
+model <- lm(y ~ x)
+
+# plot the coefficients
+dotwhisker::dwplot(model,
+                   xlimits = c(-.3, 1))
+
+```
+
+
+
+
+
+# References
+
+<div id="refs"></div>
 
