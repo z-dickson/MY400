@@ -22,18 +22,18 @@ format:
 
 # From research questions to research designs
 
-<br>
+**Today**
 
-**Essential Readings:**
-
-<br>
-
-- Dietrich, B.J., Sands, M.L. Seeing racial avoidance on New York City streets. Nature Human Behaviour 7, 1275–1281 (2023). https://doi.org/10.1038/s41562-023-01589-7  
-
-- Jones, J. A. (2022). “They Are There with Us”: Theorizing Racial Status and Intergroup Relations. American Journal of Sociology, 128(2), 411-461. https://doi.org/10.1086/721467 
+- Connecting research questions to research designs
+- Cover Dietrich & Sands (2023) as an example of a research design
+  - Group activity: Designing a field experiment
+- Discuss the formative assignment
+- If time: opportunity to share progress on research proposals
 
 
 # Questions from the Lecture?
+
+
 
 
 
@@ -50,55 +50,111 @@ format:
 - Findings: Pedestrians gave a wider berth to Black confederates compared to white.
 
 
-# Theoretical Background
+# Theoretical Motivation
 
-- **Racial avoidance**: The tendency to avoid interactions with individuals of a different 
-- **Implicit prejudice**: Unconscious behaviour that affects our actions, and decisions
+<br>
+
+*Let's think about the theoretical motivation for the study - how do the authors situate their work?*
+
+<br>
+
+
 - **Institutional racism and segregation**: Discrimination is built into the structure of society, often through laws, policies, and practices
+
+- **Implicit racial bias**: Unconscious attitudes or stereotypes that affect our understanding, actions, and decisions [@dovidio2002implicit; @word1974nonverbal; @dovidio1997nature] 
+
+- **Racial avoidance theory**: The tendency to avoid interactions with individuals of a different [@willis1966initial; @hendricks1976race; @brown1981shared]
+
 
 
 # Research Question: Observing Racial Avoidance
 
 - **Central Research Question**: Do people exhibit different behaviors in public spaces based on racial out-group presence?
-- This question is grounded in theories of **out-group bias** and **physical space as a social indicator**.
-- Background: Prior studies show **racial bias** in conversation distance and space use but often rely on lab settings.
 
-# Connecting Question to Methodology
+- **Sub-Questions**:
+  - How do pedestrians adjust their paths when encountering Black vs. white individuals?
+  - Are these behaviors consistent across different racial groups?
+  - Are there gender differences in these behaviors?
+  - What are the implications of these behaviors for social interactions and urban life?
+
+
+# How do the authors connect theory to their research question?
+
+- **Racial Avoidance Theory**: Suggests that people may avoid interactions with individuals
+  - **Implicit Bias**: Unconscious attitudes may influence these behaviors
+  - **Non-Verbal Bias**: Racial bias may manifest in non-verbal behaviors, such as physical avoidance
+
+
+
+# Connecting Question to Research Design
+
+- **Research Design**: Naturalistic field experiment using NYC traffic cameras
+  - Observations of pedestrian behavior in real-world settings
+  - Deductive approach: Testing theoretical predictions in a naturalistic context
+    - e.g. pre-registering the study design and hypotheses
+  - Unobtrusive observation: Minimizing participant awareness to capture implicit behaviors
 
 - **Field Experiment Setup**: Confederates were stationed on NYC sidewalks, with careful controls over racial presentation.
 - Design used NYC DOT traffic cameras, providing **naturalistic observation**.
 - This design aligns with the question by providing **large-scale data** without participant awareness.
 
+
+# How do the authors justify their research design?
+
+- Background: Prior studies show **racial bias** in conversation distance and space use but often rely on lab settings.
+
+- **Strengths of the Design**:
+  - **Real-World Context**: Captures **implicit racial bias** in everyday interactions
+  - **Unobtrusive Observation**: Minimizes participant awareness for more accurate data
+  - **Large-Scale Data**: Uses NYC traffic cameras for **naturalistic observation**
+
+- **Alignment with Research Question**: Design allows for the study of **non-verbal racial bias** in public spaces.
+
+
 # Measurement and Data Collection
 
+
+- Data Sources: Publicly available NYC traffic camera feeds
+  - **Observational Data**: Captured pedestrian behaviors in real-time
+
+- **Confederate Setup**: Black and white confederates stationed on sidewalks
+  - **Controlled Presentation**: Confederates wore similar clothing and stood in similar locations 
+      - **Why is this important?**
 - **Outcome Measure**: Standardized Pedestrian Deviation (SPD) – how far pedestrians veered from confederates.
-- Importance of unobtrusive methods: SPD enables researchers to quantify non-verbal racial bias in a **real-world setting**.
-- Data Sources: Publicly available NYC traffic camera feeds.
+  - How do they come up with this measure? 
+     - Validation 
+
+
+# Data Analysis
+
+- **Statistical Analysis**: Used difference-in-means, OLS, and covariate-adjusted effects
+  - **Subgroup Analysis**: Examined effects across different racial groups
+    - **Estimated effects for women responding to men**: why? 
+  - **Clustered Analysis**: Managed dependencies within time blocks 
+    - why is this important in this context?
 
 # Key Findings: Racial Avoidance on NYC Sidewalks
 
+
 - **Main Results**: Pedestrians gave a wider berth to Black confederates compared to white.
   - Effects were especially notable in **non-Black pedestrians**.
-  - Findings align with theories of implicit bias.
-- **Statistical Analysis**: Used difference-in-means, OLS, and bootstrap for robust error estimates.
+  - How can we interpret these results? 
 
-# Importance of Methodological Choices
+![Dietrich & Sands (2023)](images/coef_plot.png)
 
-- **Naturalistic Field Experiment**: Allows researchers to generalize findings beyond controlled lab settings.
-- **Real-Time Data Collection**: Video data allowed for a more accurate capture of pedestrian reactions.
-- **Clustered Analysis**: Used to manage dependencies within time blocks.
 
 # Implications for Research Design
 
-- Demonstrates how carefully structured experiments can capture subtle, real-world behaviors.
-- Highlights the need to **align methodology** with research goals – here, unobtrusive observation matched the goal of measuring **implicit racial bias**.
-- Potential for **replication** in other cities or with different variables, showing the flexibility of the research design.
+- Demonstrates how carefully structured experiments can capture subtle, real-world behaviors
+- Highlights the need to **align methodology** with research goals – here, unobtrusive observation matched the goal of measuring **implicit racial bias**
+- Potential for **replication** in other cities or with different variables, showing the flexibility of the research design
 
 # Conclusion: Connecting Design with Broader Implications
 
-- Research design should facilitate findings that address the core question.
-- Dietrich & Sands' study illustrates the importance of context-specific design in studying **social interactions**.
-- As a tool for future research, this design can inform studies on **non-verbal racial bias** and other forms of implicit behavior.
+- Research design should facilitate findings that address the core question
+- Dietrich & Sands' study illustrates the importance of context-specific design in studying **social interactions**
+- As a tool for future research, this design can inform studies on **non-verbal racial bias** and other forms of implicit behavior
+
 
 # Discussion Activity: Designing a Field Experiment
 
