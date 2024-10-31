@@ -64,7 +64,7 @@ format:
 
 - **Implicit racial bias**: Unconscious attitudes or stereotypes that affect our understanding, actions, and decisions [@dovidio2002implicit; @word1974nonverbal; @dovidio1997nature] 
 
-- **Racial avoidance theory**: The tendency to avoid interactions with individuals of a different [@willis1966initial; @hendricks1976race; @brown1981shared]
+- **Racial avoidance theory**: The tendency to avoid interactions with individuals of a different race [@willis1966initial; @hendricks1976race; @brown1981shared]
 
 
 
@@ -280,6 +280,8 @@ summary(lm(y ~ x))
 
 # library for coefficient plots
 library(dotwhisker)
+library(ggplot2)
+library(ggthemes)
 
 # simulate some data 
 set.seed(123)
@@ -295,8 +297,13 @@ y <- 1 + .5*x + e
 model <- lm(y ~ x)
 
 # plot the coefficients
-dotwhisker::dwplot(model,
-                   xlimits = c(-.3, 1))
+
+g <- dwplot(model) 
+g + theme_fivethirtyeight() +
+  labs(title = "Simple regression with binary treatment") + xlim(-.1, .7) + geom_vline(xintercept = 0, linetype = "dashed", color = "red")
+ 
+       
+
 
 ```
 
