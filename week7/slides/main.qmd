@@ -76,6 +76,11 @@ format:
 *Ethics, Reflexivity, and “Ethically Important Moments” in Research* (Guillemin & Gillam, 2004)
 
 
+# Research Ethics
+
+*Ethics, Reflexivity, and “Ethically Important Moments” in Research* (Guillemin & Gillam, 2004)
+
+
 - How and why do Guillemin and Gillam distinguish between ‘procedural ethics’ and ‘ethics in practice’?
   - What is the significance of this distinction? What common ground do these two approaches share? 
 
@@ -89,12 +94,6 @@ format:
   - How does microethics relate to ethics in practice? 
 
 
-# Research Ethics
-
-*Ethics, Reflexivity, and “Ethically Important Moments” in Research* (Guillemin & Gillam, 2004)
-
-
-
 
 # Research Ethics
 
@@ -106,7 +105,7 @@ format:
 
 
 
-## Seminar Activity – Ethical Dilemmas in Qualitative Research 
+# Seminar Activity – Ethical Dilemmas in Qualitative Research 
 
 <br>
 
@@ -117,10 +116,9 @@ format:
 - To what extent are you responsible for their interpretation? 
   - What could you do about it? 
 
----
 
 
-## Seminar Activity – Ethical Dilemmas in Qualitative Research 
+# Seminar Activity – Ethical Dilemmas in Qualitative Research 
 
 <br>
 
