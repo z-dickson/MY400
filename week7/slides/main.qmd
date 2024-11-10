@@ -20,14 +20,6 @@ format:
 ---
 
 
-
-# From research questions to research designs
-
-**Today**
-
-- Peer review project
-
-
 # Questions from the Lecture?
 
 
@@ -35,6 +27,7 @@ format:
 
 # Peer Review Project 
 
+*One of the most important skills in academia is the ability to provide constructive feedback to your peers. This is a skill that you will need to develop throughout your academic career. This week, you will have the opportunity to practice this skill by providing feedback on your peers' research proposals.*
 
 - Groups of 2-3 students
   - Don't pair up with your pal  
@@ -43,6 +36,7 @@ format:
 - **Be constructive, be specific, and be kind**
 
 
+# Peer Review Criteria
 
 
 **Research problem**
@@ -62,6 +56,8 @@ format:
 - Is the originality of the project emphasised enough? 
 
 
+# Peer Review Criteria
+
 **Research question**
 
 - Is the research question clearly formulated?
@@ -75,15 +71,77 @@ format:
 
 
 
+# Research Ethics
+
+*Ethics, Reflexivity, and “Ethically Important Moments” in Research* (Guillemin & Gillam, 2004)
+
+
+- How and why do Guillemin and Gillam distinguish between ‘procedural ethics’ and ‘ethics in practice’?
+  - What is the significance of this distinction? What common ground do these two approaches share? 
+
+
+# Research Ethics
+
+*Ethics, Reflexivity, and “Ethically Important Moments” in Research* (Guillemin & Gillam, 2004)
+
+
+- According to Guillemin and Gillam, what is microethics? 
+  - How does microethics relate to ethics in practice? 
+
+
+# Research Ethics
+
+*Ethics, Reflexivity, and “Ethically Important Moments” in Research* (Guillemin & Gillam, 2004)
 
 
 
 
+# Research Ethics
 
-# Next week is Reading Week
 
-- Office hours will be available for those who want to discuss their research proposals
-- **No seminar next week**
+
+*Ethics, Reflexivity, and “Ethically Important Moments” in Research* (Guillemin & Gillam, 2004)
+
+- How does the position of subjects in medical research differ from the role of participants in qualitative research in ways that are ethically relevant?
+
+
+
+## Seminar Activity – Ethical Dilemmas in Qualitative Research 
+
+<br>
+
+*Your research report on women’s feelings about with their home/work life balance has been picked up by one of the national papers. Your research showed that many women were dissatisfied with the way the workplace was unable to cope with their home demands and recommended structural changes within places of employment, but the article makes it sound as if you’re arguing that women should think twice about becoming involved in the workforce.*
+
+<br>
+
+- To what extent are you responsible for their interpretation? 
+  - What could you do about it? 
+
+---
+
+
+## Seminar Activity – Ethical Dilemmas in Qualitative Research 
+
+<br>
+
+*You are undertaking social media research on politicians’ use of Twitter. You know several of the politicians personally due to your previous work in the civil service.*
+
+<br>
+
+- Do you need to get their informed consent?  Why or why not?   
+
+- Do your personal relationships impact this decision?  
+
+- Would the answer change if you were looking at a different social media platform, such as Facebook?  
+
+
+
+
+# Next week - Week 8 
+
+- Case studies and comparisons
+- Office hours will be on Wednesday 2-4pm
+
 
 
 
