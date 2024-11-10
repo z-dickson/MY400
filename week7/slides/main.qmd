@@ -1,0 +1,96 @@
+---
+title: "Ethics and Reflexivity & Peer Review Project"
+subtitle: "MY400 Week 7: The Fundamentals of Research Design"
+author: Zach Dickson, PhD 
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    code-fold: true
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>Week 7 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
+---
+
+
+
+# From research questions to research designs
+
+**Today**
+
+- Peer review project
+
+
+# Questions from the Lecture?
+
+
+
+
+# Peer Review Project 
+
+
+- Groups of 2-3 students
+  - Don't pair up with your pal  
+- Use peer review criteria to evaluate each other's work
+- Provide the feedback in a written form to the author 
+- **Be constructive, be specific, and be kind**
+
+
+
+
+**Research problem**
+
+- In what ways is the problem motivating the research clear?  
+- Is the interest of the research problem clearly demonstrated?  
+- Is there a puzzle/tension clearly identified?  
+
+**Literature review:**
+
+- Are relevant bodies of literature clearly identified? 
+- Are there synthesised in a way that shed light on the existing arguments, positions and traditions or is it merely a list of publications? 
+
+**Positioning/originality:**
+
+- In what ways is the gap in knowledge clearly addressed?
+- Is the originality of the project emphasised enough? 
+
+
+**Research question**
+
+- Is the research question clearly formulated?
+- Does the question “naturally” follow from the rest of the assignment? 
+- Is it formulated in a way that matches the objectives of the project? 
+
+**Overall coherence** 
+
+- How coherent is the project outline as a whole? For example:  
+  - Does the research question address align with the issues/actors/concepts than the research problem and literature? 
+
+
+
+
+
+
+
+
+# Next week is Reading Week
+
+- Office hours will be available for those who want to discuss their research proposals
+- **No seminar next week**
+
+
+
+
+
+# References
+
+<div id="refs"></div>
+
+
