@@ -30,7 +30,7 @@ format:
 *One of the most important skills in academia is the ability to provide constructive feedback to your peers. This is a skill that you will need to develop throughout your academic career. This week, you will have the opportunity to practice this skill by providing feedback on your peers' research proposals.*
 
 - Groups of 2-3 students
-  - Don't pair up with your pal  
+  - Try to pair up with someone who is not already familiar with your work
 - Use peer review criteria to evaluate each other's work
 - Provide the feedback in a written form to the author 
 - **Be constructive, be specific, and be kind**
@@ -41,19 +41,26 @@ format:
 
 **Research problem**
 
-- In what ways is the problem motivating the research clear?  
-- Is the interest of the research problem clearly demonstrated?  
-- Is there a puzzle/tension clearly identified?  
+- How is the problem motivated in the research?  
+- How does the author demonstrate interest in the research problem?  
+- Does the author clearly identify a puzzle or tension on the research question?   
+
+
+# Peer Review Criteria
 
 **Literature review:**
 
-- Are relevant bodies of literature clearly identified? 
-- Are there synthesised in a way that shed light on the existing arguments, positions and traditions or is it merely a list of publications? 
+- Does the author clearly identify relevant bodies of literature? 
+- Is existing literature synthesised in a way that sheds light on the existing arguments, positions and traditions or is it merely a list of publications?
+
+
+
+# Peer Review Criteria
 
 **Positioning/originality:**
 
 - In what ways is the gap in knowledge clearly addressed?
-- Is the originality of the project emphasised enough? 
+- Does the author make a clear case for the originality of the research?
 
 
 # Peer Review Criteria
@@ -61,15 +68,18 @@ format:
 **Research question**
 
 - Is the research question clearly formulated?
-- Does the question “naturally” follow from the rest of the assignment? 
+- Does the question “naturally” follow from the research problem and literature review?
 - Is it formulated in a way that matches the objectives of the project? 
+
+
+# Peer Review Criteria
 
 **Overall coherence** 
 
-- How coherent is the project outline as a whole? For example:  
-  - Does the research question address align with the issues/actors/concepts than the research problem and literature? 
+- How coherent is the project outline as a whole?   
+- Does the research question address align with the issues/actors/concepts than the research problem and literature? 
 
-
+# Peer Review Project Worksheets 
 
 # Research Ethics
 
@@ -141,7 +151,7 @@ format:
 - Office hours will be on Wednesday 2-4pm
 
 
-
+# Thanks! 
 
 
 
