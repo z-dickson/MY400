@@ -59,7 +59,7 @@ format:
 
 **Positioning/originality:**
 
-- In what ways is the gap in knowledge clearly addressed?
+- In what ways is/are the gap/s in knowledge clearly addressed?
 - Does the author make a clear case for the originality of the research?
 
 
@@ -77,7 +77,7 @@ format:
 **Overall coherence** 
 
 - How coherent is the project outline as a whole?   
-- Does the research question address align with the issues/actors/concepts than the research problem and literature? 
+- Does the research question align with the issues/actors/concepts of the research problem and literature? 
 
 # Peer Review Project Worksheets 
 
