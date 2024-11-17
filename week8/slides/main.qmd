@@ -1,0 +1,197 @@
+---
+title: "Case Studies and Comparisons"
+subtitle: "MY400 Week 8: The Fundamentals of Research Design"
+author: Zach Dickson, PhD 
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    code-fold: true
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>Week 8 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
+---
+
+
+# Questions from the Lecture?
+
+
+
+# Introduction to Case Studies
+
+<br>
+
+**Key Questions**:
+
+- What is a case study?
+- Why are case studies important in research design?
+
+**Group Activity**:
+
+- Discuss with your group: What comes to mind when you hear "case study"? Share an example from your field of study.
+
+
+
+# Theoretical Framing of a Case Study
+
+<br>
+
+
+**Key Insight** (Gerring, 2004):
+"A case study is an intensive study of a single unit with an aim to generalize across a larger set of units."
+
+
+
+**Group Activity**:
+
+- Reflect: How can a single unit inform broader theoretical insights? Choose a case you are familiar with and discuss its broader implications.
+
+
+
+# Justifying Case Selection
+
+
+
+
+<br>
+
+
+**Key Points**:
+
+- Justification applies to all research designs (quantitative and qualitative).
+- Case selection should align with the research question and theoretical gap.
+
+**Group Activity**:
+
+- In pairs, brainstorm how you would justify the selection of a specific case (e.g., a country, policy, or organization) for a given research topic.
+
+
+
+# The Importance of Context
+
+<br>
+
+**Discussion**:
+
+- A case is not inherently a country, city, or policy. It depends on the level of analysis and research aims.
+
+**Group Activity**:
+
+- Identify a topic in your field. What levels of analysis (e.g., country, organization, group) could it represent? Discuss with your group why one level might be more suitable than others.
+
+
+
+# Case Selection in Practice
+
+<br>
+
+**Example** 
+
+*“You’re not my nanny!” Responses to racialized women leaders during COVID-19, Politics, Groups, and Identities* (Calasanti & Gerrits, 2023)
+
+
+- Case: Twitter responses to two racialized women leaders during COVID-19.
+- Justification: Relevance to understanding intersectional backlash.
+
+**Group Activity**:
+
+- Discuss: What makes this case selection compelling? 
+- How could the authors improve their justification?
+
+
+
+# Comparison in Case Studies
+
+<br>
+
+**Key Insight**:
+- Comparison offers leverage in addressing research questions (e.g., most similar vs. most different design).
+
+**Group Activity**:
+- Pick two cases relevant to your research area. Discuss in your group:
+  - How are they similar?
+  - How are they different?
+  - What can be learned from their comparison?
+
+
+
+# Designing Single-Case Studies
+
+<br>
+
+**Key Insight**:
+- Single cases can be as insightful as multi-case studies if justified appropriately.
+
+**Group Activity**:
+- Identify a potential single case for your research. Discuss:
+  - What is it a case of?
+  - Why is it compelling?
+  - How will it address your research question?
+
+
+
+# Designing Comparative Case Studies
+
+<br>
+
+**Key Insight**:
+- Comparative case studies can offer insights into causal mechanisms and generalizability.
+
+**Group Activity**:
+- In pairs, outline a comparative case study design for a research question in your field. Discuss:
+  - What are the cases?
+  - How are they similar or different?
+  - What theoretical insights can be drawn from the comparison?
+
+# Methodological Choices
+
+<br>
+
+**Key Insight**:
+- Explicitly discuss methodological choices (e.g., why one case, two cases, or more?).
+
+**Group Activity**:
+
+- In pairs, outline methodological justifications for studying:
+  
+  - n = 1 (single case),
+  - n = 2 (comparative),
+  - n > 2 (e.g., multi-case or quantitative).
+
+
+
+# Reflect and Share
+**Key Takeaways**:
+- Case studies bridge theoretical and empirical insights.
+- Justification is critical for credibility.
+- Design choices shape research outcomes.
+
+**Group Activity**:
+- Reflect: What challenges do you foresee in selecting and justifying your case(s)? Share with the class.
+
+
+
+# Next week - Week 9
+
+- Description and prediction in quantitative and computational research
+- Office hours will be on Wednesday 10-12pm
+- If you need to speak outside of these hours, please email me to arrange a meeting
+  - If I don't respond within 24 hours, please send me a reminder email
+
+
+# Thanks! 
+
+
+
+# References
+
+<div id="refs"></div>
+
+
