@@ -24,6 +24,9 @@ format:
 
 
 
+
+
+
 # Introduction to Case Studies
 
 <br>
@@ -31,6 +34,10 @@ format:
 **Key Questions**:
 
 - What is a case study?
+  - Justification
+  - Comparison
+  - Relevance 
+  - Not a matter of qual. vs. quant. research 
 - Why are case studies important in research design?
 
 **Group Activity**:
@@ -51,7 +58,8 @@ format:
 
 **Group Activity**:
 
-- Reflect: How can a single unit inform broader theoretical insights? Choose a case you are familiar with and discuss its broader implications.
+- Reflect: How can a single unit inform broader theoretical insights? 
+  - Choose a case you are familiar with and discuss its broader implications.
 
 
 
@@ -65,12 +73,12 @@ format:
 
 **Key Points**:
 
-- Justification applies to all research designs (quantitative and qualitative).
-- Case selection should align with the research question and theoretical gap.
+- Justification applies to all research designs (quantitative and qualitative)
+- Case selection should align with the research question and theoretical gap
 
 **Group Activity**:
 
-- In pairs, brainstorm how you would justify the selection of a specific case (e.g., a country, policy, or organization) for a given research topic.
+- In pairs, brainstorm how you would justify the selection of a specific case (e.g., a country, policy, or organization) for a given research topic
 
 
 
@@ -80,11 +88,11 @@ format:
 
 **Discussion**:
 
-- A case is not inherently a country, city, or policy. It depends on the level of analysis and research aims.
+- A case is not inherently a country, city, or policy. It depends on the level of analysis and research aims
 
 **Group Activity**:
 
-- Identify a topic in your field. What levels of analysis (e.g., country, organization, group) could it represent? Discuss with your group why one level might be more suitable than others.
+- Identify a topic in your field. What levels of analysis (e.g., country, organization, group) could it represent? Discuss with your group why one level might be more suitable than others
 
 
 
@@ -97,8 +105,8 @@ format:
 *“You’re not my nanny!” Responses to racialized women leaders during COVID-19, Politics, Groups, and Identities* (Calasanti & Gerrits, 2023)
 
 
-- Case: Twitter responses to two racialized women leaders during COVID-19.
-- Justification: Relevance to understanding intersectional backlash.
+- Case: Twitter responses to two racialized women leaders during COVID-19
+- Justification: Relevance to understanding intersectional backlash
 
 **Group Activity**:
 
@@ -112,10 +120,13 @@ format:
 <br>
 
 **Key Insight**:
-- Comparison offers leverage in addressing research questions (e.g., most similar vs. most different design).
+
+- Comparison offers leverage in addressing research questions (e.g., most similar vs. most different design)
+- "Hard" test cases can help identify causal mechanisms
 
 **Group Activity**:
 - Pick two cases relevant to your research area. Discuss in your group:
+
   - How are they similar?
   - How are they different?
   - What can be learned from their comparison?
@@ -127,10 +138,13 @@ format:
 <br>
 
 **Key Insight**:
+
 - Single cases can be as insightful as multi-case studies if justified appropriately.
 
 **Group Activity**:
+
 - Identify a potential single case for your research. Discuss:
+  
   - What is it a case of?
   - Why is it compelling?
   - How will it address your research question?
@@ -142,10 +156,13 @@ format:
 <br>
 
 **Key Insight**:
+
 - Comparative case studies can offer insights into causal mechanisms and generalizability.
 
 **Group Activity**:
+
 - In pairs, outline a comparative case study design for a research question in your field. Discuss:
+
   - What are the cases?
   - How are they similar or different?
   - What theoretical insights can be drawn from the comparison?
@@ -155,12 +172,13 @@ format:
 <br>
 
 **Key Insight**:
+
 - Explicitly discuss methodological choices (e.g., why one case, two cases, or more?).
 
 **Group Activity**:
 
-- In pairs, outline methodological justifications for studying:
-  
+Thinking about the research topic that you have identified in your formative assignment, reflect upon designing research and justifying case selection for: 
+
   - n = 1 (single case),
   - n = 2 (comparative),
   - n > 2 (e.g., multi-case or quantitative).
@@ -168,12 +186,15 @@ format:
 
 
 # Reflect and Share
+
 **Key Takeaways**:
+
 - Case studies bridge theoretical and empirical insights.
 - Justification is critical for credibility.
 - Design choices shape research outcomes.
 
 **Group Activity**:
+
 - Reflect: What challenges do you foresee in selecting and justifying your case(s)? Share with the class.
 
 
