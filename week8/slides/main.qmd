@@ -167,21 +167,26 @@ format:
   - How are they similar or different?
   - What theoretical insights can be drawn from the comparison?
 
-# Methodological Choices
+
+
+# A Case of What? 
 
 <br>
 
-**Key Insight**:
+**Key Insight**: Research is not solely about the case itself but what it represents
 
-- Explicitly discuss methodological choices (e.g., why one case, two cases, or more?).
+<br>
 
 **Group Activity**:
 
-Thinking about the research topic that you have identified in your formative assignment, reflect upon designing research and justifying case selection for: 
+A case of what?
 
-  - n = 1 (single case),
-  - n = 2 (comparative),
-  - n > 2 (e.g., multi-case or quantitative).
+- The Rise of TikTok as a Tool for Political Mobilization Among Gen Z in the 2020 US Presidential Election
+- The Impact of Remote Work Policies on Urban-Rural Migration in Post-COVID Economies
+- How Anti-Vaccine Movements Spread Through Telegram in Eastern Europe
+- The Effect of Universal Basic Income Pilots on Gender Roles in Rural Kenyan Communities
+- Protests Against Police Brutality in Nigeria: The #EndSARS Movement and Its International Resonance
+
 
 
 
