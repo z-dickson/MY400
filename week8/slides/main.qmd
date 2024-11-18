@@ -115,22 +115,6 @@ format:
 
 
 
-# Comparison in Case Studies
-
-<br>
-
-**Key Insight**:
-
-- Comparison offers leverage in addressing research questions (e.g., most similar vs. most different design)
-
-**Group Activity**:
-- Pick two cases relevant to your research area. Discuss in your group:
-
-  - How are they similar?
-  - How are they different?
-  - What can be learned from their comparison?
-
-
 
 
 
