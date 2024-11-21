@@ -1,7 +1,7 @@
 ---
 title: "Case Studies and Comparisons"
 subtitle: "MY400 Week 8: The Fundamentals of Research Design"
-author: Zach Dickson, PhD 
+author: Zach Dickson
 institute: London School of Economics
 bibliography: references.bib
 format:
@@ -49,35 +49,6 @@ format:
 
 
 
-# Theoretical Framing of a Case Study
-
-<br>
-
-
-**Key Insight** (Gerring, 2004):
-"A case study is an intensive study of a single unit with an aim to generalize across a larger set of units."
-
-
-
-**Group Activity**:
-
-- Reflect: How can a single unit inform broader theoretical insights? 
-  - Choose a case you are familiar with and discuss its broader implications.
-
-
-# The Importance of Context
-
-<br>
-
-**Discussion**:
-
-- A case is not inherently a country, city, or policy. It depends on the level of analysis and research aims
-
-**Group Activity**:
-
-- Identify a topic in your field. What levels of analysis (e.g., country, organization, group) could it represent? Discuss with your group why one level might be more suitable than others
-
-
 # Justifying Case Selection
 
 
@@ -93,41 +64,43 @@ format:
 
 
 
+# Justifying Case Selection
 
+**Reading**: *“You’re not my nanny!” Responses to racialized women leaders during COVID-19* (Calasanti & Gerrits, 2023)
 
-# Case Selection in Practice
-
-<br>
-
-**Example** 
-
-*“You’re not my nanny!” Responses to racialized women leaders during COVID-19, Politics, Groups, and Identities* (Calasanti & Gerrits, 2023)
-
-
-- Case: Twitter responses to two racialized women leaders during COVID-19
-- Justification: Relevance to understanding intersectional backlash
-
-**Group Activity**:
-
+- Which cases do the authors select? 
 - How do the authors justify their case selection?
-- What makes this case selection compelling? 
+- Is this selection process compelling?
 - How could the authors improve their justification?
 
 
 
+# Case Study Design
+
+<br>
+
+**Reading**: *“You’re not my nanny!” Responses to racialized women leaders during COVID-19* (Calasanti & Gerrits, 2023)
+
+<br>
+
+In the research design, the study does not explicitly identify its comparison as a most similar or most different design. Would it be more compelling if it discussed more about the mode of comparison? How and why? 
 
 
 
 
-# Designing Comparative Case Studies
+# Comparative Case Studies
 
 <br>
 
 **Key Insight**:
 
-- Comparative case studies can offer insights into causal mechanisms and generalizability.
+- When comparing cases, the goal is to draw theoretical insights from the comparison
+- Cases can be similar or different in various ways (e.g., context, outcome, process)
+- The choice of comparison shapes the research outcomes
 
-**Group Activity**:
+<br>
+
+**Discussion**:
 
 - In pairs, outline a comparative case study design for a research question in your field. Discuss:
 
