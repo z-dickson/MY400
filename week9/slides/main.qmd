@@ -1,0 +1,188 @@
+---
+title: "Description and Prediction in Quantitative/Computational Research"
+subtitle: "MY400 Week 9: The Fundamentals of Research Design"
+author: Zach Dickson
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    code-fold: true
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>Week 9 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
+---
+
+
+# Questions from the Lecture?
+
+
+
+# Introduction
+
+- **Seminar Goals**:
+  - Understand the importance of description and prediction in research.
+  - Explore key concepts from Holmes et al. (2023): "A Case for Description."
+  - Discuss practical implications for research methodology.
+
+
+# Why Focus on Description and Prediction?
+
+- Quantitative research involves three inferential postures:
+  1. **Description**: "How the world is."
+  2. **Prediction**: "How the world will be."
+  3. **Causation**: "Why the world is the way it is."
+- This seminar emphasizes **description** and **prediction**.
+
+
+
+# Defining Description and Prediction
+
+- **Description**:
+  - Answers "who," "what," "when," "where," and "how" questions.
+  - Focuses on operationalization, measurement, and sampling.
+- **Prediction**:
+  - Estimates unseen states of the world.
+  - Relies on concepts like "loss" and 'error'.
+
+
+
+# Historical Context (Holmes et al., 2023)
+
+- Behavioral revolution emphasized causality and generalization.
+- Description became devalued as "merely descriptive."
+- Recent efforts revalue description in conceptualization, data management, and policy relevance.
+
+
+
+# Contributions of Descriptive Research
+
+- According to Holmes et al. (2023):
+  1. **Conceptualization**: Defining and refining key concepts.
+  2. **Data Management**: Improving data collection and curation.
+  3. **Policy Insights**: Informing decision-making.
+  4. **Challenging Biases**: Diversifying perspectives.
+
+
+
+# Conceptualization and Coherence
+
+- Description underpins:
+  - Defining key terms (e.g., "civil war," "democracy").
+  - Standardizing measurements across datasets.
+- Example: Discrepancies in measuring civilian fatalities (Broache et al., 2022).
+
+
+
+# Data Management: Big and Small
+
+- Challenges in descriptive data management:
+  - Decisions made during data collection influence research outcomes.
+  - Example: Missing critical dimensions of data in curated datasets.
+- Importance of descriptive work in emerging phenomena:
+  - Social media as a tool for activism.
+  - Digital state formation.
+
+
+
+
+# Policy Relevance and Public Engagement
+
+- Policymakers and media require descriptive insights:
+  - Contextualize complex policy issues.
+  - Highlight trends and patterns.
+- Example: Climate change studies leveraging descriptive statistics to guide decisions.
+
+
+
+# Pitfalls of Bad Data Practices
+
+- Potential risks:
+  - **Bias**: Measurement errors, sampling issues.
+  - **Complex Modeling**: Misleading results from over-specified models.
+- Example: Misinterpreting relationships due to partial correlations.
+
+
+
+# Prediction in Social Science
+
+
+- What is prediction?
+  - Estimating future states of the world.
+  - Identifying patterns in "unseen" data.
+- Example: Overfitting and the importance of training/test splits or other validation techniques (e.g., cross-validation).
+
+
+# Connecting Description and Prediction
+
+- Description and prediction are interconnected:
+  - Descriptive data is foundational for predictive models.
+  - Predictive exercises rely on well-defined descriptive frameworks.
+
+ 
+# Class Discussion: Reading Questions
+
+- Based on Holmes et al. (2023):
+  - Why is description undervalued in social science?
+  - Do you agree that description can deepen conceptualization, improve data practices, and challenge biases?
+- Discuss the contributions and risks of descriptive research.
+
+ 
+# Exercise: Designing a Study
+
+1. **Choose a research topic**:
+   - Example: "Social Media and Mental Health."
+2. **Research Question**:
+   - Formulate a descriptive or predictive question.
+3. **Design a Research Approach**:
+   - Operationalization, sampling, analysis, risks.
+
+
+# Optional Exercise: Prediction and Description in your Research
+
+- Reflect on your research project:
+  - How does your research balance description and prediction?
+  - What are the implications for your methodology?
+
+# Recap and Takeaways
+
+- Description and prediction:
+  - Essential and complementary.
+  - Enable rigorous and impactful social science research.
+- Reframe descriptive work as foundational, not secondary.
+- Engage critically with methodological decisions.
+
+
+# Related Courses and Resources
+
+- Recommended courses:
+  - MY455: Multivariate Analysis
+  - MY459: Text Analysis
+  - MY474: Machine Learning.
+
+- Some additional resources:
+  - [Machine learning and LLMs in social science research](https://z-dickson.github.io/teaching.html) (shameless plug)
+  - [Kaggle competitions and tutorials](https://www.kaggle.com/)
+
+
+
+# Next week - Week 10
+
+- Causation in quantitative/computational research
+- Office hours will be on Wednesday 10-12pm
+
+
+
+
+
+# References
+
+<div id="refs"></div>
+
+
