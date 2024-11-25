@@ -1,5 +1,5 @@
 ---
-title: "Description and Prediction in Quantitative/Computational Research"
+title: "Description & Prediction in Quantitative & Computational Research"
 subtitle: "MY400 Week 9: The Fundamentals of Research Design"
 author: Zach Dickson
 institute: London School of Economics
@@ -29,7 +29,7 @@ format:
 - **Seminar Goals**:
   - Understand the importance of description and prediction in research.
   - Explore key concepts from Holmes et al. (2023): "A Case for Description."
-  - Discuss practical implications for research methodology.
+  - Discuss practical implications for research methodology and how the two concepts are applicable to your research.
 
 
 # Why Focus on Description and Prediction?
@@ -39,6 +39,7 @@ format:
   2. **Prediction**: "How the world will be."
   3. **Causation**: "Why the world is the way it is."
 - This seminar emphasizes **description** and **prediction**.
+
 
 
 
@@ -134,7 +135,7 @@ format:
 - Discuss the contributions and risks of descriptive research.
 
  
-# Exercise: Designing a Study
+# Group Exercise: Designing a Study
 
 1. **Choose a research topic**:
    - Example: "Social Media and Mental Health."
@@ -144,7 +145,7 @@ format:
    - Operationalization, sampling, analysis, risks.
 
 
-# Optional Exercise: Prediction and Description in your Research
+# Prediction and Description in your Research
 
 - Reflect on your research project:
   - How does your research balance description and prediction?
