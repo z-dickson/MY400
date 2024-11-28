@@ -81,18 +81,6 @@ format:
 
 
 
-# Data Management: Big and Small
-
-- Challenges in descriptive data management:
-  - Decisions made during data collection influence research outcomes.
-  - Example: Missing critical dimensions of data in curated datasets.
-- Importance of descriptive work in emerging phenomena:
-  - Social media as a tool for activism.
-  - Digital state formation.
-
-
-
-
 # Policy Relevance and Public Engagement
 
 - Policymakers and media require descriptive insights:
