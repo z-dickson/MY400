@@ -1,0 +1,224 @@
+---
+title: "Causation in Quantitative & Computational Research"
+subtitle: "MY400 Week 10: The Fundamentals of Research Design"
+author: Zach Dickson
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    code-fold: true
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>Week 10 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
+---
+
+
+# Questions from the Lecture?
+
+
+
+
+# Seminar Overview
+
+- **Topic**: Causal Inference in the Social Sciences
+- **Goals**:
+  - Understand the potential outcomes framework.
+  - Explore the fundamental problem of causal inference (FPCI).
+  - Discuss tools for addressing causation in observational and experimental research.
+- **Readings**:
+  - Angrist & Pischke (2009): *Mostly Harmless Econometrics*.
+  - Hernán (2018): *The C-Word*.
+  - Abdelgadir & Fouka (2020): *French Headscarf Ban*
+
+
+# What is Causal Inference?
+
+- **Definition**: Understanding *the effect* of a treatment or intervention on an outcome.
+- **Key Question**: What would have happened in the absence of the treatment?
+- **Central Challenge**:
+  - The Fundamental Problem of Causal Inference (FPCI).
+  - We observe only one potential outcome (treated or untreated) for each unit.
+    - e.g. the counterfactual is unobservable 
+    - scope conditions 
+
+
+# Potential Outcomes Framework
+
+- For each unit:
+  - $[Y_1]$: Outcome if treated.
+  - $[Y_0]$: Outcome if untreated.
+- **Causal Effect**:
+  - $[Y_1 - Y_0]$: Difference in outcomes due to treatment.
+- Fundamental Problem of Causal Inference:
+  - Only one of $[Y_1]$ or $[Y_0]$ is observed.
+
+
+# The Average Treatment Effect (ATE)
+
+<br>
+
+We want to estimate the average treatment effect (ATE) across all units.
+
+- **Example**: 
+  - What is the effect of education on earnings?
+  - What is the effect of a policy on voter turnout?
+
+<br>
+
+- $ATE = E[Y|D=1] - E[Y|D=0] =$ <br>
+ $E[Y_1|D=1] - E[Y_0|D=0] + E[Y_0|D=1] - E[Y_0|D=0]$
+
+
+# The Experimental Ideal
+
+- **Randomized Controlled Trials (RCTs)**:
+  - Random assignment of treatment ensures:
+    - $[Y_1]$ and $[Y_0]$ are independent of treatment.
+  - Allows direct estimation of average treatment effects (ATE).
+- **Limitations**:
+  - Ethical concerns.
+  - Feasibility and cost.
+
+
+
+# Counterfactual Reasoning
+
+- **Counterfactual**:
+  - The outcome that would have occurred under a different treatment state.
+- **Example** (Angrist & Pischke):
+  - What would wages be for someone who didn’t attend college?
+- Counterfactual reasoning underpins causal questions and research design.
+
+
+
+# Identification Strategies in Observational Data
+
+- **Goal**: Approximate the experimental ideal.
+- **Common Strategies**:
+  - Matching.
+  - Difference-in-Differences (DiD).
+  - Instrumental Variables (IV).
+  - Regression Discontinuity (RD).
+
+
+# Matching
+
+- **Idea**:
+  - Match treated and control units on observed covariates.
+- **Example**:
+  - Effects of a training program on employment outcomes.
+
+# Regression Discontinuity (RD)
+
+- **Idea**:
+  - Use a cutoff or threshold to identify causal effects.
+- **Example**:
+  - Effects of a policy change near a threshold - e.g. school class size.
+
+
+# Difference-in-Differences (DiD)
+
+- **Idea**:
+  - Compare changes over time between treated and control groups.
+- **Example**:
+  - Effects of a policy change before and after implementation, relative to a feasible control group.
+
+# Instrumental Variables (IV)
+
+- **Idea**:
+  - Use an instrument to identify causal effects.
+- **Example**:
+  - Effects of education on earnings using compulsory schooling laws as an instrument.
+
+
+# Case Study: French Headscarf Ban
+
+- **Research Question**:
+  - How did the 2004 French headscarf ban affect Muslim women’s socioeconomic outcomes?
+- **Methodology**:
+  - Difference-in-Differences:
+    - Compare Muslim girls before/after the ban.
+    - Use non-Muslim girls as a control group.
+
+
+
+# Group Activity 1: Evaluate the French Ban Study
+
+- **Questions**:
+  1. What are the main threats to causal inference in this study?
+  2. How does the DiD approach address confounding?
+  3. What assumptions must hold for the DiD results to be valid?
+- **Discuss**:
+  - Strengths and limitations of the identification strategy.
+
+
+
+# The Role of Assumptions
+
+- Even in experiments:
+  - Assumptions about randomization and independence are critical.
+- Observational studies require:
+  - Clear identification strategies.
+  - Robust sensitivity analyses.
+
+
+
+# Hernán (2018): Causal Questions Rule
+
+- **Key Insights**:
+  - Clearly articulate causal research questions.
+  - Avoid hiding causal aims behind associational language.
+  - “Research questions determine the method, not vice versa”.
+
+
+
+# Group Activity 2: Formulating Causal Questions
+
+1. Using your peers' research question:
+   - Identify the causal component.
+   - Reframe the question in causal terms.
+2. Develop:
+   - An ideal experiment to answer it.
+   - An identification strategy for observational data.
+3. Share and critique strategies as a group.
+
+
+
+# Summary and Takeaways
+
+- Causal inference is challenging but essential.
+- Key principles:
+  - Counterfactual reasoning.
+  - Experimental ideal and its limitations.
+  - Robust identification strategies in observational settings.
+- **Further Reading**:
+  - MY457: Causal Inference in Observational Studies.
+
+
+
+# Questions and Discussion
+
+- **Reflection**:
+  - What methods are most relevant to your research?
+  - How can these tools improve policy evaluation?
+- Open floor for questions and comments.
+
+# Next week - Week 11
+
+- Meaning Making in Qualitative Research
+- Office hours will be on Wednesday 10-12pm
+
+
+
+# References
+
+<div id="refs"></div>
+
+
