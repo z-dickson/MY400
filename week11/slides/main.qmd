@@ -1,0 +1,184 @@
+---
+title: "Causation in Quantitative & Computational Research"
+subtitle: "MY400 Week 11: The Fundamentals of Research Design"
+author: Zach Dickson
+institute: London School of Economics
+bibliography: references.bib
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    code-fold: true
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [simple, custom.scss]
+    footer: <a>Week 11 MY400 Seminar<br>Slides are available on Github ([z-dickson/MY400](https://github.com/z-dickson/MY400))</a>
+---
+
+
+# Questions from the Lecture?
+
+
+
+# Objectives 
+
+- Topic: **Meaning-Making in Qualitative Research**
+
+- Objectives:
+
+  - Discuss the weekly reading.
+  - Explore qualitative research design dimensions.
+  - Discuss the Summative Assessment.
+
+
+
+# Weekly Reading Overview
+
+**Susewind, R. (2021)**  
+*"Dreaming in the Shadow of History: Micro-Mobilities and Belonging in Lucknow"*
+
+Key Takeaways:
+
+- Focus on **micro-mobilities** and their role in shaping belonging.
+- Methodology: Ethnographic fieldwork and life histories.
+- Concepts: Belonging, urban mobility, and aspirations.
+
+
+
+# Background and Literature Review
+
+**Gaps Identified:**
+
+- Existing research emphasizes **long-distance mobility**.
+- This study highlights **short-distance, mundane mobilities**.
+
+**Contributions:**
+
+- Builds on the "mobilities paradigm" (e.g., Bissell, Urry).
+- Explores ambivalence and ambiguities of belonging.
+
+**Discussion Questions:**
+
+- What literature does the study expand on?
+- How does it challenge "gap narratives"?
+
+
+
+# Research Questions
+
+**From the Paper:**
+
+- How do young men consolidate belonging through **mundane mobilities**?
+
+**Your Turn:**
+
+- Reformulate the research aims into a question.
+
+Group Activity:
+
+1. Reformulate the research question for another case study (10 minutes).
+2. Share your ideas with the class.
+
+
+# Research Design
+
+**Case Selection:**
+
+- Why Lucknow? Rich relationships and pragmatic access.
+- Does the choice justify the aims of the study?
+
+**Design Approach:**
+
+- Abductive reasoning.
+- Combines temporal, spatial, and embodied narratives.
+
+**Discussion Prompt:**
+
+- Is the case selection convincing? Why or why not?
+
+
+# Data Collection and Analysis
+
+**Methods Used:**
+
+- Walking/driving interviews.
+- Participant observation.
+- Embodied co-presence.
+
+**Data Analysis:**
+
+- Limited explicit description in the paper.
+
+**Activity:**
+
+- Propose alternative data collection strategies for a similar study.
+- How would you improve the data analysis section?
+
+
+
+# Outcomes and Contributions
+
+**Key Insights:**
+
+- Micro-mobilities matter in urban belonging.
+- Highlights the interplay of inclusion/exclusion and ambivalence.
+
+**Social Relevance:**
+
+- Resonates with Covid-19 "lockdown" experiences.
+- Implications for modern urban studies.
+
+**Discussion:**
+
+- Does this research resonate with your own experiences?
+
+
+# Summative Assessment
+
+
+# Summative Assessment
+
+- 3,000-word Research design worth 100% of the grade
+- Word count does not include references/title/appendix, but does include tables/figures
+
+**Submission Deadline: Monday 20th January 2025, 4pm**
+
+
+# Summative Assessment: Research Design
+
+**Potential Sections:**
+
+1. **Introduction:** Background, aims, and research questions (~300-500 words). 
+2. **Literature Review/Theory:** Key concepts and gaps in the literature (~500-800 words).
+3. **Research Design:** Methods, data collection, and analysis (~300-500 words).
+4. **Data Collection:** Description of the data sources and collection methods (~200-300 words).
+5. **Data Analysis:** Description of the analytical approach and tools (~200-300 words).
+6. **Outcomes, Contributions, limitations** Key findings and implications (~500 words).
+7. **Conclusion:** Summary and future research directions (~200 words).
+
+
+# Questions about the Summative Assessment?
+
+
+
+# Let's fill out the feedback form!
+
+
+
+# Thanks for a great term!
+
+- Office Hours: Wednesday 10-12pm
+- Email: [z.dickson@lse.ac.uk](mailto:z.dickson@lse.ac.uk)
+
+
+
+
+# References
+
+<div id="refs"></div>
+
+
