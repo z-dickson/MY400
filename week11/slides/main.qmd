@@ -1,5 +1,5 @@
 ---
-title: "Causation in Quantitative & Computational Research"
+title: "Meaning Making in Qualitative Research"
 subtitle: "MY400 Week 11: The Fundamentals of Research Design"
 author: Zach Dickson
 institute: London School of Economics
