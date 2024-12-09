@@ -23,16 +23,19 @@ format:
 # Questions from the Lecture?
 
 
+# Questions about causal inference from last week? 
 
-# Objectives 
+
+
+# Today's Agenda 
 
 - Topic: **Meaning-Making in Qualitative Research**
 
 - Objectives:
 
-  - Discuss the weekly reading.
-  - Explore qualitative research design dimensions.
-  - Discuss the Summative Assessment.
+  - Discuss the weekly reading
+  - Discuss the Summative Assessment
+  - Discuss whatever needs clarification 
 
 
 
@@ -68,20 +71,6 @@ Key Takeaways:
 
 
 
-# Research Questions
-
-**From the Paper:**
-
-- How do young men consolidate belonging through **mundane mobilities**?
-
-**Your Turn:**
-
-- Reformulate the research aims into a question.
-
-Group Activity:
-
-1. Reformulate the research question for another case study (10 minutes).
-2. Share your ideas with the class.
 
 
 # Research Design
@@ -137,6 +126,19 @@ Group Activity:
 - Does this research resonate with your own experiences?
 
 
+# Group Activity
+
+<br>
+
+**Designing a Qualitative Study:**
+
+- Choose a research question from your peers 
+- Develop a research design for a qualitative study 
+  - Case selection, data collection, and analysis
+- Include risks/limitations and ethical considerations
+
+
+
 # Summative Assessment
 
 
@@ -165,7 +167,7 @@ Group Activity:
 
 
 
-# Let's fill out the feedback form!
+# Let's fill out the course feedback form 
 
 
 
