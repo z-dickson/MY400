@@ -24,14 +24,22 @@ format:
 
 I'll start...
 
+
+# Introductions
+
+- Name
+- What are you studying?
+- What do you hope to learn in this course?
+- What do you want to do after LSE?
+
 # Course Notes 
 
 - Moodle (first stop)
 - LSE Timetables - lectures
 - Github - slides presented in the seminar
 - Office hours
-	- booking through LSE Student Hub - available 10-1130 on Wednesdays
-- Methods Surgery -- booking on the Department of Methodology website
+	- booking through LSE Student Hub - available 11-13 on Thursdays
+- Email - [z.dickson@lse.ac.uk](mailto:z.dickson@lse.ac.uk)
 
 # Q&A about the lecture
 
@@ -151,30 +159,7 @@ I'll start...
 Discussion Activity 1
 :::
 
-# Discussion 1     
 
-
-
-- What do you experience as your main challenges in reading academic articles?
-  - How do you think you could overcome these challenges?
-
-
-
-::: {.footer}
-Discussion Activity 1
-:::
-
-# Discussion 1     
-
-
-- Is there anything that you have not understood, that is not clear for you in the presentation?
-  - What would you like to know more about?
-
-
-
-::: {.footer}
-Discussion Activity 1
-:::
 
 # Discussion 2
 
@@ -182,7 +167,7 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 
 
 
-	
+
 ::: {.footer}
 Discussion Activity 2
 :::
@@ -190,9 +175,7 @@ Discussion Activity 2
 # Discussion 2
 
 
-
 - What are the key differences between gap-spotting and problematization in constructing research questions?
-	- Discuss the extent to which each approach impacts the development of significant and innovative theories in organizational studies.
 
 ::: {.footer}
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
@@ -234,7 +217,6 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 # Discussion 2
 
 
-
 - How can researchers balance the need for academic credibility with the pursuit of innovative, assumption-challenging research questions?
 	- Discuss strategies that might encourage more problematization in research without jeopardizing academic recognition or publication success.
 
@@ -242,6 +224,20 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 ::: {.footer}
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
 :::
+
+
+# Next Week
+
+Theory and Data 
+
+ - What is the role of theory? 
+ - What is the role of concepts?
+ - What do we mean by data?
+ - What are different ways of connecting theory and data?
+
+
+
+
 
 
 # What Questions Can I Answer?
