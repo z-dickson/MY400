@@ -13,7 +13,7 @@ Welcome to the repository for **MY400/500: Fundamentals of Research Design** at 
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/MY400-500-course-materials.git
+   git clone https://github.com/z-dickson/MY400
 
 
 ## Important links 
