@@ -90,8 +90,6 @@ Knopf (2006) highlights the role of literature reviews:
 
 
 
-
-
 ## *Using Facebook ad data to track the global digital gender gap*
 
 **Abstract:**
@@ -106,9 +104,8 @@ Knopf (2006) highlights the role of literature reviews:
    - Gender is a key dimension of inequality, but we don’t have adequate data world-wide, especially in low- and middle-income countries. ​
 
 - **Discipline/Fields:**
-   - Political Science
+   - Political Science/Sociology/International Development
    - Data Science/Computational Social Science
-   - World Development and the digital divide​
 
 - **Literature Topic 1:​**
    - On the proliferation and growing importance of ICTs across the world, revolutionizing social, cultural and political life. 
@@ -119,11 +116,18 @@ Knopf (2006) highlights the role of literature reviews:
 
 # Example Research Outline (cont.)
 
-- **Literature Topic 2:​** 
+- **Literature Topic 1:​** 
    - Gender gaps – what we know about the magnitude and persistence, and what key predictors/explanations there are in the literature​
 
-- **Literature Topic 3:​**
+- **Literature Topic 2:​**
    - Data Science/Computational Social Science techniques to fit models on ‘training data’, cross-validation, and out-of-sample predictions. ​
+
+- **Literature Topic 2:​**
+   - How ‘big data’/digital trace data (e.g., social media data) have been used to track social phenomena, especially in data-sparse environments. ​
+
+
+
+# Example Research Outline (cont.)
 
 
 **Research Question(s):​** 
@@ -155,8 +159,8 @@ Knopf (2006) highlights the role of literature reviews:
    - Example questions: How does social media impact teenage mental health?
 2. **Aging Population and Social Support Systems**
    - Example questions: How do social support systems change with an aging population?
-3. **Public Ethics and AI**
-   - Example questions: How does the public perceive AI making ethical judgments?
+3. **The Economy and Democracy**
+   - Example questions: What is the relationship between economic inequality and democratic stability?
 4. **Climate Change and Radical Right**
    - Example questions: How do radical right parties frame climate change?
 
