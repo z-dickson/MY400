@@ -169,7 +169,7 @@ format:
 # Formative Assignment: Research Proposals 
 
 
-- **Submission Deadline:** Thursday 7th November, 4pm
+- **Submission Deadline:** Thursday 6th November, 4pm
 - **Length:** 1-2 pages including in-text citations and reference list
 - **Format:** Word or PDF
 - **Submission:** Via Moodle
