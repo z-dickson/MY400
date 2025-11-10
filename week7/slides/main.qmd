@@ -148,7 +148,7 @@ format:
 # Next week - Week 8 
 
 - Case studies and comparisons
-- Office hours will be on Wednesday 2-4pm
+- Office hours will be on Thursday 11-1300
 
 
 # Thanks! 
