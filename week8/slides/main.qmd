@@ -58,11 +58,13 @@ format:
 - Justification applies to all research designs (quantitative and qualitative)
 - Case selection should align with the research question and theoretical gap
 
-**Group Activity**:
-
-- In pairs, brainstorm how have you justified the selection of your specific case (e.g., a country, policy, or organization) in your research proposal. Share with the class.
-
-
+- Common strategies:
+  - Most similar systems design
+  - Most different systems design
+  - Critical case
+  - Extreme/Deviant case
+  - Typical case
+  - Convenience case
 
 # Justifying Case Selection
 
@@ -70,22 +72,22 @@ format:
 
 - Which cases do the authors select? 
 - How do the authors justify their case selection?
-- Is this selection process compelling?
-- How could the authors improve their justification?
 
 
 
-# Case Study Design
-
-<br>
+# Justifying Case Selection
 
 **Reading**: *“You’re not my nanny!” Responses to racialized women leaders during COVID-19* (Calasanti & Gerrits, 2023)
 
-<br>
-
-In the research design, the study does not explicitly identify its comparison as a most similar or most different design. Would it be more compelling if it discussed more about the mode of comparison? How and why? 
+- What would be gained and lost by this study focusing on one case of a racialized women public official instead of the two that it does? 
 
 
+
+# Justifying Case Selection
+
+**Reading**: *“You’re not my nanny!” Responses to racialized women leaders during COVID-19* (Calasanti & Gerrits, 2023)
+
+- In the research design, the study does not explicitly identify its comparison as a most similar or most different design. Would it be more compelling if it discussed more about the mode of comparison? How and why? 
 
 
 # Comparative Case Studies
@@ -99,6 +101,12 @@ In the research design, the study does not explicitly identify its comparison as
 - The choice of comparison shapes the research outcomes
 
 <br>
+
+
+
+
+
+# Comparative Case Studies
 
 **Discussion**:
 
@@ -130,25 +138,23 @@ A case of what?
 
 
 
+# Group Activity 
 
-# Reflect and Share
+**Instructions**:
 
-**Key Takeaways**:
+- In pairs, justify the case selection of your own research proposal to your partner
+- Provide feedback to each other on the justification
+- Consider how the case study design can be improved to better align with your research question and theoretical gap
 
-- Case studies bridge theoretical and empirical insights.
-- Justification is critical for credibility.
-- Design choices shape research outcomes.
+- After 10 minutes, we will have a few pairs share their justifications with the class for further discussion
 
-**Group Activity**:
-
-- Reflect: What challenges do you foresee in selecting and justifying your case(s)? Share with the class.
 
 
 
 # Next week - Week 9
 
 - Description and prediction in quantitative and computational research
-- Office hours will be on Wednesday 10-12pm
+- Office hours will be Wednesday 2--4pm BST 
 - If you need to speak outside of these hours, please email me to arrange a meeting
   - Please don't be shy about sending me a reminder email if I don't respond within 24 hours
 
