@@ -1,5 +1,5 @@
 ---
-title: "Description & Prediction in Quantitative & Computational Research"
+title: "Description in Quantitative & Computational Research"
 subtitle: "MY400 Week 9: The Fundamentals of Research Design"
 author: Zach Dickson
 institute: London School of Economics
@@ -27,30 +27,26 @@ format:
 # Introduction
 
 - **Seminar Goals**:
-  - Understand the importance of description and prediction in research.
+  - Understand the importance of description in research.
   - Explore key concepts from Holmes et al. (2023): "A Case for Description."
-  - Discuss practical implications for research methodology and how the two concepts are applicable to your research.
+  - Discuss practical implications for research methodology and how the concept is applicable to your research.
 
 
-# Why Focus on Description and Prediction?
+# Why Focus on Description?
 
 - Quantitative research involves three inferential postures:
   1. **Description**: "How the world is."
-  2. **Prediction**: "How the world will be."
-  3. **Causation**: "Why the world is the way it is."
-- This seminar emphasizes **description** and **prediction**.
+  2. **Causation**: "Why the world is the way it is."
+- This seminar emphasizes **description**.
 
 
 
 
-# Defining Description and Prediction
+# Defining Description
 
 - **Description**:
   - Answers "who," "what," "when," "where," and "how" questions.
   - Focuses on operationalization, measurement, and sampling.
-- **Prediction**:
-  - Estimates unseen states of the world.
-  - Relies on concepts like "loss" and 'error'.
 
 
 
@@ -99,45 +95,42 @@ format:
 
 
 
-# Prediction in Social Science
 
 
-- What is prediction?
-  - Estimating future states of the world.
-  - Identifying patterns in "unseen" data.
-- Example: Overfitting and the importance of training/test splits or other validation techniques (e.g., cross-validation).
 
-
-# Connecting Description and Prediction
-
-- Description and prediction are interconnected:
-  - Descriptive data is foundational for predictive models.
-  - Predictive exercises rely on well-defined descriptive frameworks.
-
- 
 # Class Discussion: Reading Questions
 
 - Based on Holmes et al. (2023):
   - Why is description undervalued in social science?
   - Do you agree that description can deepen conceptualization, improve data practices, and challenge biases?
-- Discuss the contributions and risks of descriptive research.
-
- 
-# Group Exercise: Designing a Study
-
-1. **Choose a research topic**:
-   - Example: "Social Media and Mental Health."
-2. **Research Question**:
-   - Formulate a descriptive or predictive question.
-3. **Design a Research Approach**:
-   - Operationalization, sampling, analysis, risks.
+- What are the contributions and risks of descriptive research.
 
 
-# Prediction and Description in your Research
+
+# Quick Reflection
 
 - Reflect on your research project:
-  - How does your research balance description and prediction?
-  - What are the implications for your methodology?
+  - Is your project primarily descriptive or causal?
+  - Why? 
+
+
+
+# In-class Test Discussion
+
+> Gitub: [https://github.com/z-dickson/MY400/tree/main/week8](https://github.com/z-dickson/MY400/tree/main/week8)
+
+
+
+# Paper Discussion
+
+Chetty, R., Jackson, M.O., Kuchler, T., Stroebel, J., Hendren, N., Fluegge, R.B., Gong, S., Gonzalez, F., Grondin, A., Jacob, M. and Johnston, D., 2022. Social capital I: measurement and associations with economic mobility. Nature, 608(7921), pp.108-121.
+
+> Think about the distinct research questions that the authors tackle in this paper. Are the questions descriptive, causal, or some mix of these? Which question-answer pairs that the authors offer do you find most persuasive?
+
+
+
+
+
 
 # Recap and Takeaways
 
@@ -148,23 +141,12 @@ format:
 - Engage critically with methodological decisions.
 
 
-# Related Courses and Resources
-
-- Recommended courses:
-  - MY455: Multivariate Analysis
-  - MY459: Text Analysis
-  - MY474: Machine Learning.
-
-- Some additional resources:
-  - [Machine learning and LLMs in social science research](https://z-dickson.github.io/teaching.html) (shameless plug)
-  - [Kaggle competitions and tutorials](https://www.kaggle.com/)
-
 
 
 # Next week - Week 10
 
 - Causation in quantitative/computational research
-- Office hours will be on Wednesday 10-12pm
+- Office hours will be on Tuesdays 3-5pm
 
 
 
@@ -175,3 +157,12 @@ format:
 <div id="refs"></div>
 
 
+ 
+# Group Exercise: Designing a Study
+
+1. **Choose a research topic**:
+   - Example: "Social Media and Mental Health."
+2. **Research Question**:
+   - Formulate a descriptive question.
+3. **Design a Research Approach**:
+   - Operationalization, sampling, analysis, risks.
