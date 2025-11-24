@@ -117,7 +117,7 @@ format:
 
 # In-class Test Discussion
 
-> Gitub: [https://github.com/z-dickson/MY400/tree/main/week8](https://github.com/z-dickson/MY400/tree/main/week8)
+> Gitub: [https://github.com/z-dickson/MY400/tree/main/week9](https://github.com/z-dickson/MY400/tree/main/week9)
 
 
 
