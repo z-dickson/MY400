@@ -34,7 +34,7 @@ format:
 
 # Why Focus on Description?
 
-- Quantitative research involves three inferential postures:
+- Quantitative research involves two inferential postures:
   1. **Description**: "How the world is."
   2. **Causation**: "Why the world is the way it is."
 - This seminar emphasizes **description**.
