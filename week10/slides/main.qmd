@@ -30,7 +30,7 @@ format:
 - **Topic**: Causal Inference in the Social Sciences
 - **Goals**:
   - Understand the potential outcomes framework.
-  - Explore the fundamental problem of causal inference (FPCI).
+  - Explore the fundamental problem of causal inference.
   - Discuss tools for addressing causation in observational and experimental research.
 - **Readings**:
   - Angrist & Pischke (2009): *Mostly Harmless Econometrics*.
@@ -43,7 +43,7 @@ format:
 - **Definition**: Understanding *the effect* of a treatment or intervention on an outcome.
 - **Key Question**: What would have happened in the absence of the treatment?
 - **Central Challenge**:
-  - The Fundamental Problem of Causal Inference (FPCI).
+  - The Fundamental Problem of Causal Inference.
   - We observe only one potential outcome (treated or untreated) for each unit.
     - e.g. the counterfactual is unobservable 
     - scope conditions 
@@ -177,7 +177,7 @@ format:
    - Identify the causal component.
    - Reframe the question in causal terms.
 2. Develop:
-   - An ideal experiment to answer it.
+   - An ideal (ethical) experiment to answer it.
    - An identification strategy for observational data.
 3. Share and critique strategies as a group.
 
@@ -195,6 +195,7 @@ format:
 
 
 
+
 # Questions and Discussion
 
 - **Reflection**:
@@ -202,10 +203,26 @@ format:
   - How can these tools improve policy evaluation?
 - Open floor for questions and comments.
 
+
+
+# Practice Test v2
+
+> [https://github.com/z-dickson/MY400/tree/main/week10](https://github.com/z-dickson/MY400/tree/main/week10)
+
+
+
+# PhD Options 
+
+> [LSE Collaborative Studentship with Campaign Lab](https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/ESRC-Collaborative-Studentships-2026-entry/LSE-Collaborative-Studentship-with-Campaign-Lab)
+
+
+Also, jobs.ac.uk 
+
+
 # Next week - Week 11
 
 - Meaning Making in Qualitative Research
-- Office hours will be on Wednesday 10-12pm
+- Office hours will be on Wednesday 3-5pm
 
 
 
