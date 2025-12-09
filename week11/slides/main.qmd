@@ -167,7 +167,7 @@ Shall we do another practice in-class test?
 3. **Research Design:** Methods, data collection, and analysis (~300-500 words).
 4. **Data Collection:** Description of the data sources and collection methods (~200-300 words).
 5. **Data Analysis:** Description of the analytical approach and tools (~200-300 words).
-6. **Outcomes, Contributions, limitations** Key findings and implications (~500 words).
+6. **Outcomes, Contributions, limitations** (indicative) key findings and implications (~500 words).
 7. **Conclusion:** Summary and future research directions (~200 words).
 
 
