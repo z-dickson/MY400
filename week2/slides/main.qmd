@@ -32,22 +32,45 @@ I'll start...
 - What do you hope to learn in this course?
 - What do you want to do after LSE?
 
+# Overview of Today's Seminar
+
+**Readings:**
+
+- Knopf (2006) *Doing a literature review*
+- Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+- Day & Koivu (2019) *Finding the question: a puzzle-based approach to the logic of discovery*
+
+**Activities:**
+
+1. Questions about the course
+2. **Discussion 1**: Reading as a research practice, and literature reviews
+3. **Discussion 2**: Identifying a research question (Sandberg & Alvesson, 2011; Day & Koivu, 2019)
+
+
 # Course Notes 
 
 - Moodle (first stop)
 - LSE Timetables - lectures
 - Github - slides presented in the seminar
 - Office hours
-	- booking through LSE Student Hub - available 11-13 on Thursdays
+	- booking through LSE Student Hub - available 2-4 on Tuesdays 
 - Email - [z.dickson@lse.ac.uk](mailto:z.dickson@lse.ac.uk)
+
+# Questions about the course
+
+Is anything unclear? For example:
+
+- Contact hours -- when and where are lectures and seminars?
+- Where to find the readings and seminar activities for each week
+- What are the assessments and when do they happen?
+
+<br>
+
+If anything seems mysterious, please ask!
+
 
 # Q&A about the lecture
 
-# Where have students struggled in past?
-
-- Capstone project
-- Research Design
-- Connecting theory to empirics  
 
 
 # How to Read a Paper/Article
@@ -127,13 +150,13 @@ I'll start...
 
 (Source: [Purugganan & Hewitt (2004)](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf))
 
-# To summarise
+# Why do we read?
 
 - We learn what has been done before, which is fundamental to cumulative knowledge;
 - We acquire language to speak about it, such as concepts;
 - We expand our imagination about what it is possible to do in relation to our topic of interest or the phenomenon we want to investigate;
 - We become more critical about what looks convincing and what does not;
-- We acquire models and templates that we can use as examples in our own research (which is different from plagiarism!)
+- We acquire models and ideas that we can use as examples or inspiration in our own research (which is different from plagiarism!)
 
 
 
@@ -147,11 +170,12 @@ I'll start...
 
 
 
-# Discussion 1     
+# Discussion 1: Reading
 
 
-- Is your experience of reading academic articles similar to the strategies presented by the teacher?
-  - What are the main differences between your approach and the one presented?
+- Is your experience/practice of reading academic articles similar to the strategies presented in the slides?
+  - If not, how do your habits differ (and what are their pros and cons)?
+- What do you experience as your main challenges in reading academic articles?
 
 
 
@@ -160,11 +184,45 @@ Discussion Activity 1
 :::
 
 
+# Discussion 1: Reading
+
+
+- Have you tried using AI applications to aid your reading?
+  - What has been your experience of that (any pros, any cons)?
+- What system do you have (if any!) for note-taking, particularly when preparing to write a literature review?
+
+
+
+::: {.footer}
+Discussion Activity 1
+:::
+
+
+# Discussion 1: Literature Reviews
+
+
+- What are the purposes of a literature review (both according to Knopf, and according to you)?
+- What do you experience as your main challenges in writing a literature review?
+- How might AI applications help or hinder in writing a literature review?
+  - What are the potential pros and cons?
+
+
+
+::: {.footer}
+Knopf (2006) *Doing a literature review*
+:::
+
+
 
 # Discussion 2
 
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
 
+Day & Koivu (2019) *Finding the question: a puzzle-based approach to the logic of discovery*
+
+<br>
+
+We'll use Sandberg & Alvesson as a warm-up for critiquing published papers
 
 
 
@@ -172,17 +230,82 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 Discussion Activity 2
 :::
 
-# Discussion 2
+# Discussion 2: Background & Literature
 
 
-- What are the key differences between gap-spotting and problematization in constructing research questions?
+- How do the authors motivate their own paper via recourse to the literature?
+- How do they distinguish the purpose of their study from other previous work in this area?
 
 ::: {.footer}
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
 :::
 
 
-# Discussion 2
+# Discussion 2: Research Questions & Design
+
+
+- What are the stated research questions guiding this paper?
+- Can you suggest narrower versions of the authors' research questions?
+  - Based on the guidelines from the lecture, formulate a couple of research questions that align with the research design and announced objectives of the article
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+
+# Discussion 2: Outcomes
+
+
+- What types of research questions do the authors identify?
+  - What are the key differences between gap-spotting and problematization?
+  - How is their conceptualisation of these approaches informed by their own empirical work?
+- Do you find the distinction the authors make convincing? Why/why not?
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+# Discussion 2: Limitations & Further Research
+
+
+- Are there other ways of motivating research questions you can think of that the authors do not attend to? 
+  - Following how the authors name the approaches to gap-spotting they identify, how would you name them? 
+
+::: {.footer}
+Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
+:::
+
+
+# Discussion 2: Gaps vs. Puzzles
+
+
+- Bringing in Day & Koivu (2019): what is the connection (and difference) between a **gap** and a **puzzle**?
+
+
+::: {.footer}
+Day & Koivu (2019) *Finding the question: a puzzle-based approach to the logic of discovery*
+:::
+
+
+# Activity: Template Sentences
+
+Pick a type of **gap** and a type of **puzzle** (identified by you or the authors) and write a template sentence for each that you could use in your assignment
+
+<br>
+
+*Example ("confusion spotting"):* "While the literature has clearly demonstrated the relevance of studying [x], the mechanism and conditions under which this process occurs remains unclear."
+
+<br>
+
+- Which approach do you find the most helpful, given your research interests?
+
+
+::: {.footer}
+Discussion Activity 2
+:::
+
+
+# If we have time...
 
 
 
@@ -193,17 +316,8 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
 :::
 
-# Discussion 2
 
-
-- Are there other ways of motivating research questions you can think of that the authors do not attend to? 
-  - Following how the authors name the approaches to gap-spotting they identify, how would you name them? 
-
-::: {.footer}
-Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
-:::
-
-# Discussion 2
+# If we have time...
 
 
 - In what ways do institutional norms, such as journal publication standards and academia's reward systems, shape the construction of research questions?
@@ -214,7 +328,7 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
 :::
 
-# Discussion 2
+# If we have time...
 
 
 - How can researchers balance the need for academic credibility with the pursuit of innovative, assumption-challenging research questions?
