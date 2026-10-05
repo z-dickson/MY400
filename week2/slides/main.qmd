@@ -170,41 +170,12 @@ If anything seems mysterious, please ask!
 
 
 
-# Discussion 1: Reading
+# Discussion 1: Reading & Literature Reviews
 
 
-- Is your experience/practice of reading academic articles similar to the strategies presented in the slides?
-  - If not, how do your habits differ (and what are their pros and cons)?
-- What do you experience as your main challenges in reading academic articles?
-
-
-
-::: {.footer}
-Discussion Activity 1
-:::
-
-
-# Discussion 1: Reading
-
-
-- Have you tried using AI applications to aid your reading?
-  - What has been your experience of that (any pros, any cons)?
-- What system do you have (if any!) for note-taking, particularly when preparing to write a literature review?
-
-
-
-::: {.footer}
-Discussion Activity 1
-:::
-
-
-# Discussion 1: Literature Reviews
-
-
-- What are the purposes of a literature review (both according to Knopf, and according to you)?
-- What do you experience as your main challenges in writing a literature review?
-- How might AI applications help or hinder in writing a literature review?
-  - What are the potential pros and cons?
+1. **Reading:** How do your reading habits compare with the strategies in the slides, and what do you find most challenging about reading academic articles?
+2. **Tools:** What system (if any!) do you use for note-taking? Have you used AI to help you read or write -- what are the pros and cons?
+3. **Literature reviews:** What is a literature review *for* (according to Knopf, and according to you), and what do you find hardest about writing one?
 
 
 
@@ -230,46 +201,11 @@ We'll use Sandberg & Alvesson as a warm-up for critiquing published papers
 Discussion Activity 2
 :::
 
-# Discussion 2: Background & Literature
+# Discussion 2: Sandberg & Alvesson
 
 
-- How do the authors motivate their own paper via recourse to the literature?
-- How do they distinguish the purpose of their study from other previous work in this area?
-
-::: {.footer}
-Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
-:::
-
-
-# Discussion 2: Research Questions & Design
-
-
-- What are the stated research questions guiding this paper?
-- Can you suggest narrower versions of the authors' research questions?
-  - Based on the guidelines from the lecture, formulate a couple of research questions that align with the research design and announced objectives of the article
-
-::: {.footer}
-Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
-:::
-
-
-# Discussion 2: Outcomes
-
-
-- What types of research questions do the authors identify?
-  - What are the key differences between gap-spotting and problematization?
-  - How is their conceptualisation of these approaches informed by their own empirical work?
-- Do you find the distinction the authors make convincing? Why/why not?
-
-::: {.footer}
-Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
-:::
-
-# Discussion 2: Limitations & Further Research
-
-
-- Are there other ways of motivating research questions you can think of that the authors do not attend to? 
-  - Following how the authors name the approaches to gap-spotting they identify, how would you name them? 
+1. **Motivation & design:** How do the authors use the literature to motivate their paper and set it apart from previous work? What are their research questions -- and can you formulate a narrower version that fits their design?
+2. **Findings & critique:** What is the difference between gap-spotting and problematization, and how does the authors' empirical work inform this typology? Is the distinction convincing? Are there other ways of motivating research questions they miss -- what would you call them?
 
 ::: {.footer}
 Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
@@ -279,7 +215,11 @@ Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spottin
 # Discussion 2: Gaps vs. Puzzles
 
 
-- Bringing in Day & Koivu (2019): what is the connection (and difference) between a **gap** and a **puzzle**?
+3. **Gaps & puzzles:** How does a **puzzle** (Day & Koivu) relate to and differ from a **gap**? Pick one type of each and write a template sentence you could use in your assignment. Which approach suits your research interests best?
+
+<br>
+
+*Example ("confusion spotting"):* "While the literature has clearly demonstrated the relevance of studying [x], the mechanism and conditions under which this process occurs remains unclear."
 
 
 ::: {.footer}
@@ -287,52 +227,12 @@ Day & Koivu (2019) *Finding the question: a puzzle-based approach to the logic o
 :::
 
 
-# Activity: Template Sentences
-
-Pick a type of **gap** and a type of **puzzle** (identified by you or the authors) and write a template sentence for each that you could use in your assignment
-
-<br>
-
-*Example ("confusion spotting"):* "While the literature has clearly demonstrated the relevance of studying [x], the mechanism and conditions under which this process occurs remains unclear."
-
-<br>
-
-- Which approach do you find the most helpful, given your research interests?
-
-
-::: {.footer}
-Discussion Activity 2
-:::
-
-
 # If we have time...
 
 
-
-- Why is gap-spotting the dominant approach in research question formulation, despite the emphasis on theory challenging for creating interesting research?
-	- What social norms or academic pressures reinforce the preference for gap-spotting and to what extent do the authors provide answers to these questions in the text?
-
-::: {.footer}
-Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
-:::
-
-
-# If we have time...
-
-
-- In what ways do institutional norms, such as journal publication standards and academia's reward systems, shape the construction of research questions?
-	- How might these norms hinder more critical and disruptive research approaches?
-
-
-::: {.footer}
-Sandberg & Alvesson (2011) *Ways of constructing research questions: gap-spotting or problematization?*
-:::
-
-# If we have time...
-
-
-- How can researchers balance the need for academic credibility with the pursuit of innovative, assumption-challenging research questions?
-	- Discuss strategies that might encourage more problematization in research without jeopardizing academic recognition or publication success.
+- Why does gap-spotting dominate, even though problematization tends to produce more interesting research?
+	- How do institutional norms (e.g. journal standards, academic reward systems) reinforce this?
+	- How can researchers pursue assumption-challenging questions without jeopardising publication and recognition?
 
 
 ::: {.footer}
