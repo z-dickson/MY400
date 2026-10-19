@@ -1,17 +1,18 @@
 ---
-title: "Desk-Based Research"
+title: "From Research Questions to Research Designs"
 subtitle: "MY400 Week 4: The Fundamentals of Research Design"
-author: Zach Dickson, PhD 
+author: Zach Dickson, PhD
 institute: London School of Economics
 bibliography: references.bib
 format:
-  revealjs: 
+  revealjs:
     fontsize: 1.5em
     logo: images/LSE_logo.png
     embed-resources: true
     slide-number: true
     preview-links: auto
     transition: fade
+    code-fold: true
     citation_package: biblatex
     transition-speed: fast
     theme: [simple, custom.scss]
@@ -20,186 +21,149 @@ format:
 
 
 
-# Week 4 – Desk-Based Research
+# Overview of Today's Seminar
 
-# Questions from the Lecture
+**Objectives:**
 
-- Any lingering questions from the lecture?
-- Let's discuss any confusing points (5 minutes)
+- How the elements of a research design **fit together**
+- Fixed and flexible designs, and the inferences each supports
+- Reconstructing a design and assessing its **trade-offs**
 
+**Activities:**
 
+1. Q&A about the lecture
+2. **Discussion 1**: Jones (2022)
+3. **Discussion 2**: Dietrich & Sands (2023)
+4. **Discussion 3**: Comparing the two designs
+5. **Activity**: Your research idea
 
-# What is a Literature Review?
-- A literature review **summarizes and evaluates** a body of writings on a specific topic.
-- Two key components:
-  - **Summary** of prior research findings or claims.
-  - **Evaluation** of the accuracy, completeness, and gaps in the literature.
-- It is not just a list of summaries, but a **synthesis** of the existing research.
 
 
+# Lecture Take-Aways: Fit
 
-# Benefits of Conducting a Literature Review
-- Provides a **general overview** of unfamiliar research.
-- Helps avoid **reinventing the wheel** by identifying what has already been done.
-- Generates **new ideas** and reveals **flaws** or gaps in existing research.
-- **Places your research in context**, highlighting potential contributions.
+- A research design connects five elements:
+  - **purpose**, **conceptual framework**, **research questions**, **sampling strategy** and **methods**
+- These need to fit together: the evidence collected must allow the researcher to **address the questions** and **support the intended claims**
+- Theory and concepts make **practical** differences. They help specify:
+  - what needs explaining and whose experiences matter
+  - which settings and interactions to investigate
+  - which observations or measures count as relevant evidence
 
 
 
-# Three Contexts for Literature Reviews
-1. **Standalone Review**: Summarizes current knowledge on a topic (e.g., state-of-the-art reviews).
-2. **Preliminary Stage**: A required part of research proposals or theses, helping to frame contributions to knowledge.
-3. **Component of a Finished Report**: Builds upon the proposal review to link final conclusions to previous literature.
+# Lecture Take-Aways: Fixed and Flexible Designs
 
+- **Fixed designs** specify the main procedures before data collection
+- **Flexible designs** allow questions, sampling, collection and analysis to develop during the research
+- Both require **justified choices** and openness to what the evidence can establish
 
+<br>
 
-# Framing Contributions to Knowledge
-- Knowledge refers to both **beliefs** and the **confidence** with which we hold them.
-- Literature reviews can:
-  - **Introduce new ideas**, theories, or information.
-  - **Alter existing beliefs** or challenge the confidence in those beliefs.
-  - Strengthen or challenge the current understanding of a topic.
+::: {.callout-important}
+Induction and deduction are **forms of reasoning**, not mutually exclusive categories of studies.
+:::
 
 
 
-# Tips for Creating an Effective Literature Review
-1. **Be selective** focus on studies relevant to your research.
-2. **Organize by themes** group studies into schools of thought or theories.
-3. **Critically assess** the assumptions, logic, evidence, and methodologies of the studies.
-4. Identify **areas of consensus, debate, and gaps** to frame your research's contribution.
+# Lecture Take-Aways: Inference and Trade-Offs
 
+- Different designs support **different inferences**
+  - Randomised comparisons can assess the effects of particular interventions
+  - Ethnography can investigate meanings, relationships and processes in context
+- A natural setting does not automatically make findings **representative**
+- Observing a pattern does not by itself identify the **mechanism** producing it
+- Design choices involve trade-offs in **access, measurement, comparison, time and scope**
 
+<br>
 
-# To summarize...
+*A useful critique identifies a specific uncertainty and explains what additional evidence or design change would address it.*
 
-Knopf (2006) highlights the role of literature reviews:
 
-- **Concise summary** of prior studies.
-- **Assessment** of the "state-of-the-art" in the field.
-- Identification of **strengths, weaknesses, and gaps**.
 
-**Key Questions** to ask when reviewing:
+# Questions or Comments?
 
-- What is each publication trying to achieve?
-- What is the main argument in each publication?
-- What are the areas of consensus or disagreement?
-- What are the gaps in the current knowledge?
-  - What kinds of questions remain unanswered?
+<br>
 
+Does anyone have any questions from the lecture, anything they didn't understand, or any reflections they'd like to share?
 
 
 
+# Discussion 1: Jones (2022)
 
-## *Using Facebook ad data to track the global digital gender gap*
+1. **The puzzle and the question:** What makes positive relations between Black residents and Latinx newcomers in Winston-Salem *puzzling*, given existing theories? Jones gives no formal list of questions -- **reconstruct a central research question**. (Hint: what needs explaining beyond the fact that people are *not fighting*?)
+2. **Concept and evidence:** What does Jones mean by **shared racial status**? Find a passage she interprets as evidence of it. What distinguishes it from evidence of friendship, cooperation or shared economic circumstances?
 
-**Abstract:**
+::: {.footer}
+Jones (2022) *"They Are There with Us"*
+:::
 
-*Gender equality in access to the internet and mobile phones has become increasingly recognized as a development goal. Monitoring progress towards this goal however is challenging due to the limited availability of gender-disaggregated data, particularly in low-income countries. In this data sparse context, we examine the potential of a source of digital trace ‘big data’ – Facebook’s advertisement audience estimates – that provides aggregate data on Facebook users by demographic characteristics covering the platform’s over 2 billion users to measure and nowcast digital gender gaps. We generate a unique country-level dataset combining ‘online’ indicators of Facebook users by gender, age and device type, ‘offline’ indicators related to a country’s overall development and gender gaps, and official data on gender gaps in internet and mobile access where available. Using this dataset, we predict internet and mobile phone gender gaps from official data using online indicators, as well as online and offline indicators. We find that the online Facebook gender gap indicators are highly correlated with official statistics on internet and mobile phone gender gaps. For internet gender gaps, models using Facebook data do better than those using offline indicators alone. Models combining online and offline variables however have the highest predictive power. Our approach demonstrates the feasibility of using Facebook data for real-time tracking of digital gender gaps. It enables us to improve geographical coverage for an important development indicator, with the biggest gains made for low-income countries for which existing data are most limited.*
 
 
-# Example Research Outline
+# Discussion 2: Dietrich & Sands (2023)
 
-- **Motivation:​** 
-   - Unequal access across the world (and within countries) to crucial information and communication technologies (ICTs), like access to internet and mobile phones. 
-   - Gender is a key dimension of inequality, but we don’t have adequate data world-wide, especially in low- and middle-income countries. ​
+1. **Concept and measurement:** Why do the authors treat physical distance on the pavement as evidence of **racial avoidance**? What does *standardised pedestrian deviation* capture -- and what remains uncertain about pedestrians' **motives**?
+2. **Design and scope:** What varies between the conditions, and what is kept comparable? What does randomising the **order of conditions** support -- and what does it *not* establish about New Yorkers, or behaviour elsewhere? (Hint: random assignment ≠ random sampling.)
 
-- **Discipline/Fields:**
-   - Political Science/Sociology/International Development
-   - Data Science/Computational Social Science
+::: {.footer}
+Dietrich & Sands (2023) *Seeing racial avoidance on New York City streets*
+:::
 
-- **Literature Topic 1:​**
-   - On the proliferation and growing importance of ICTs across the world, revolutionizing social, cultural and political life. 
-   - ICTs are shown to be crucial to achieving key development goals (“lowers the cost of information and connectivity”), especially for marginalized groups, such as women in some low-income countries. ​
 
 
+# Discussion 3: Comparing the Two Designs
 
 
-# Example Research Outline (cont.)
+Which design is better suited to *isolating a particular difference*, and which to *understanding how relationships take shape*? What does each leave difficult to establish?
 
-- **Literature Topic 1:​** 
-   - Gender gaps – what we know about the magnitude and persistence, and what key predictors/explanations there are in the literature​
+<br>
 
-- **Literature Topic 2:​**
-   - Data Science/Computational Social Science techniques to fit models on ‘training data’, cross-validation, and out-of-sample predictions. ​
+*Avoid a hierarchy in which experiments explain and ethnography merely describes -- or ethnography reveals reality while experiments are artificial.*
 
-- **Literature Topic 2:​**
-   - How ‘big data’/digital trace data (e.g., social media data) have been used to track social phenomena, especially in data-sparse environments. ​
+::: {.footer}
+Discussion Activity 3
+:::
 
 
 
-# Example Research Outline (cont.)
+# Seminar Wrap-Up
 
+- Good designs are **coherent**: purpose, concepts, questions, sampling and methods support one another
+- Design involves **justified choices about what evidence matters**, not simply choosing a qualitative or quantitative method
+- Each design offers particular **grounds for claims** and particular **limits**
+- Improving a design means asking:
+  - What uncertainty would this evidence reduce?
+  - What new assumption or difficulty would it introduce?
+  - How would it change the claim the researcher could defend?
 
-**Research Question(s):​** 
 
-- Can both sets of data be used to estimate gender gaps in internet and mobile phone access in countries across the world that we do not already have good data on?​
-- Do these data explain variation in gender gaps in the countries that we do have good data on (the ‘training’ dataset)?​
-- If so, can we use the models to make ‘out-of-sample’ predictions in countries that we do not have good data on?
 
+# Activity: Your Research Idea
 
+**For the formative assignment** -- in pairs (10 minutes), then share with the group:
 
-# Group Activity: Sketching a Literature Review 
+1. **State your research question** in one sentence, and the **purpose** behind it
+2. Sketch your design: **who or what** will you study, **what evidence** will you collect, and **why** does that evidence fit your question?
+3. Is your design closer to **fixed or flexible**? What is the **main trade-off** you are making?
 
+<br>
 
-1. **Choose a discipline** and **research topic**
-2. Identify an **early research question**.
-3. Outline **three relevant topics** for the literature review:
-   - Example: Gender gaps in ICT, predictors, and data modeling techniques.
-4. Use **Google Scholar** to find at least 3 sources.
-5. Summarize key points and share with the class.
+::: {.callout-tip}
+**Partner's task:** identify *one* specific uncertainty in the design and suggest what evidence or change would address it.
+:::
 
-**No methods/analysis needed, just a summary of the literature.**
+::: {.footer}
+Formative Assignment Activity
+:::
 
 
-# Group Activity: Research Topics
 
-**Choose a Research Topic:**
+# Next Week
 
-1. **Social Media and Mental Health**
-   - Example questions: How does social media impact teenage mental health?
-2. **Aging Population and Social Support Systems**
-   - Example questions: How do social support systems change with an aging population?
-3. **The Economy and Democracy**
-   - Example questions: What is the relationship between economic inequality and democratic stability?
-4. **Climate Change and Radical Right**
-   - Example questions: How do radical right parties frame climate change?
+**Desk-Based Research**
 
+- Doing a literature review
+- Keep developing your formative research proposal -- check Moodle for the submission deadline
 
-
-
-
-# Individual Activity: Sketching a Literature Review 
-
-
-1. **Choose a discipline** and **research topic**
-2. Identify an **early research question**.
-3. Outline **three relevant topics** for the literature review:
-   - Example: Gender gaps in ICT, predictors, and data modeling techniques.
-4. Use **Google Scholar** to find at least 3 sources.
-5. Summarize key gaps, contributions and methods to share with the class.
-
-**No methods/analysis needed, just a summary of the literature.**
-
-
-## Concluding Thoughts
-
-- Literature reviews form the backbone of **desk-based research**.
-- Identifying **gaps** and **building upon prior work** is crucial.
-- Keep your research **focused** and **critical**.
-
----
-
-## Final Activity: Peer Review - Optional
-
-- Exchange your literature review outline with a peer.
-- Provide feedback on clarity and relevance.
-
-
-
-# Next Steps
-
-- **Prepare for next week's seminar**:
-  - From research questions to research designs
-  - Keep thinking about how your own research proposal is taking shape
+<br>
 
 **Any final questions or reflections?**
