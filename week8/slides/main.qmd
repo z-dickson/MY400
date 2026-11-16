@@ -110,7 +110,7 @@ format:
 
 **Discussion**:
 
-- In pairs, outline a comparative case study design for a research question in your field. Discuss:
+- In pairs, outline a comparative case study design for your research question. Discuss:
 
   - What are the cases?
   - How are they similar or different?
@@ -138,25 +138,18 @@ A case of what?
 
 
 
-# Group Activity 
+# In-class test preparation 
 
-**Instructions**:
-
-- In pairs, justify the case selection of your own research proposal to your partner
-- Provide feedback to each other on the justification
-- Consider how the case study design can be improved to better align with your research question and theoretical gap
-
-- After 10 minutes, we will have a few pairs share their justifications with the class for further discussion
-
+- See Moodle
 
 
 
 # Next week - Week 9
 
 - Description and prediction in quantitative and computational research
-- Office hours will be Wednesday 2--4pm BST 
+- Office hours will be Tuesday 2--4pm BST 
 - If you need to speak outside of these hours, please email me to arrange a meeting
-  - Please don't be shy about sending me a reminder email if I don't respond within 24 hours
+
 
 
 
