@@ -5,7 +5,7 @@ author: Zach Dickson
 institute: London School of Economics
 bibliography: references.bib
 format:
-  revealjs: 
+  revealjs:
     fontsize: 1.5em
     logo: images/LSE_logo.png
     embed-resources: true
@@ -24,145 +24,351 @@ format:
 
 
 
-# Introduction
+# Today
 
-- **Seminar Goals**:
-  - Understand the importance of description in research.
-  - Explore key concepts from Holmes et al. (2023): "A Case for Description."
-  - Discuss practical implications for research methodology and how the concept is applicable to your research.
+1. **The readings**
+   - Why description gets no respect [@holmes2023case]
+   - What separates *good* from *mere* description [@dekadt2025good]
+   - Putting both to work on a real paper [@bastos2021account]
+2. **Class test**: practice paper 2
+3. **If time**: design your own descriptive study
 
+<br>
 
-# Why Focus on Description?
+> Throughout: *where in the paper* did you find your answer? Some of these are easy to locate, others are not. That is worth noticing.
 
-- Quantitative research involves two inferential postures:
-  1. **Description**: "How the world is."
-  2. **Causation**: "Why the world is the way it is."
-- This seminar emphasizes **description**.
-
-
-
-
-# Defining Description
-
-- **Description**:
-  - Answers "who," "what," "when," "where," and "how" questions.
-  - Focuses on operationalization, measurement, and sampling.
+::: {.notes}
+Plan activities 1, 2, 3 in order. Activities 1 and 2 take priority; activity 3 only if time allows.
+The "where did you find it" prompt is the 'meta' reflection from the preparation sheet.
+:::
 
 
 
-# Historical Context (Holmes et al., 2023)
+# Warm-up: Descriptive or Causal?
 
-- Behavioral revolution emphasized causality and generalization.
-- Description became devalued as "merely descriptive."
-- Recent efforts revalue description in conceptualization, data management, and policy relevance.
+Hands up for **descriptive**, hands down for **causal**. No abstaining.
 
+::: {.incremental}
+1. How many democracies are there in the world today?
+2. Do women earn less than men in the same job, sector and with the same education?
+3. What happened to turnout when Scotland lowered the voting age to 16?
+4. Were Leave tweets more likely to vanish than Remain tweets?
+5. Does a job-training programme work better for younger workers than older ones?
+:::
 
+::: {.notes}
+Take gut-instinct votes only; do not resolve yet. We come back to these after the manipulability test.
 
-# Contributions of Descriptive Research
-
-- According to Holmes et al. (2023):
-  1. **Conceptualization**: Defining and refining key concepts.
-  2. **Data Management**: Improving data collection and curation.
-  3. **Policy Insights**: Informing decision-making.
-  4. **Challenging Biases**: Diversifying perspectives.
-
-
-
-# Conceptualization and Coherence
-
-- Description underpins:
-  - Defining key terms (e.g., "civil war," "democracy").
-  - Standardizing measurements across datasets.
-- Example: Discrepancies in measuring civilian fatalities (Broache et al., 2022).
+Key (de Kadt & Grzymala-Busse):
+1. Descriptive (a characteristic), but it depends entirely on the concept you pick first.
+2. Descriptive: a conditional association. Nobody claims gender is being manipulated. The authors call this a liminal space.
+3. Causal, even though it is a "what" question: it asks about an intervention and its counterfactual. This is their objection to who/what/when/where definitions.
+4. Descriptive: an association.
+5. Both. Causal about training and outcomes; descriptive about age, which nobody is manipulating.
+:::
 
 
 
-# Policy Relevance and Public Engagement
+# "Merely Descriptive"
 
-- Policymakers and media require descriptive insights:
-  - Contextualize complex policy issues.
-  - Highlight trends and patterns.
-- Example: Climate change studies leveraging descriptive statistics to guide decisions.
+- Description, on its own, "loses most of its interest" [@king1994designing, 34]
+- In 2022, about **1 in 10** articles in four top political science journals used description as the main tool of analysis [@holmes2023case]
 
+<br>
 
+**Discuss**
 
-# Pitfalls of Bad Data Practices
+- A reviewer calls your dissertation "merely descriptive". Insult or compliment? What do you write back?
+- How did causal work win the status contest?
+- Is it the same in *your* field? And outside the university: who actually pays for description?
 
-- Potential risks:
-  - **Bias**: Measurement errors, sampling issues.
-  - **Complex Modeling**: Misleading results from over-specified models.
-- Example: Misinterpreting relationships due to partial correlations.
-
-
-
-
-
-
-# Class Discussion: Reading Questions
-
-- Based on Holmes et al. (2023):
-  - Why is description undervalued in social science?
-  - Do you agree that description can deepen conceptualization, improve data practices, and challenge biases?
-- What are the contributions and risks of descriptive research.
+::: {.notes}
+Preparation sheet question A.
+Holmes et al. survey: 32 of 313 articles (about 10.2%) in APSR, Perspectives on Politics, JOP and IO.
+Push on the academic / non-academic contrast: statistical offices, pollsters, newsrooms, NGOs, data teams. Students with work experience usually have strong views here.
+:::
 
 
 
-# Quick Reflection
+# What Has Description Ever Done for Us?
 
-- Reflect on your research project:
-  - Is your project primarily descriptive or causal?
-  - Why? 
+@holmes2023case claim four contributions:
 
+1. **Concepts**: saying what a thing *is* before asking how much of it there is
+2. **Data**: collecting and curating is intellectual work, not admin
+3. **Policy and public relevance**: who, what, when, where, how
+4. **Challenging biases**: noticing who and what the field has not been looking at
 
+<br>
 
-# In-class Test Discussion
+**In pairs (3 min)**
 
-> Gitub: [https://github.com/z-dickson/MY400/tree/main/week9](https://github.com/z-dickson/MY400/tree/main/week9)
+- Which of the four is the weakest claim? Is there a fifth?
 
-
-
-# Paper Discussion
-
-Chetty, R., Jackson, M.O., Kuchler, T., Stroebel, J., Hendren, N., Fluegge, R.B., Gong, S., Gonzalez, F., Grondin, A., Jacob, M. and Johnston, D., 2022. Social capital I: measurement and associations with economic mobility. Nature, 608(7921), pp.108-121.
-
-> Think about the distinct research questions that the authors tackle in this paper. Are the questions descriptive, causal, or some mix of these? Which question-answer pairs that the authors offer do you find most persuasive?
-
-
+::: {.notes}
+Preparation sheet question B.
+Ask for the concrete example first; the abstract "do you agree" discussion goes better once two or three real findings are on the table.
+:::
 
 
 
+# Counting Is Not Neutral
 
-# Recap and Takeaways
+- How many deaths make a civil war?
+- How many electoral turnovers make a democracy?
+- One widely used dataset on violence against civilians counts the September 11 attacks in the United States, but not domestic terrorism or police violence [@holmes2023case]
 
-- Description and prediction:
-  - Essential and complementary.
-  - Enable rigorous and impactful social science research.
-- Reframe descriptive work as foundational, not secondary.
-- Engage critically with methodological decisions.
+<br>
 
+**Your turn**
+
+Take one concept from your own project.
+
+- What gets counted? What gets left out?
+- Who decided, and would someone else in your field have decided differently?
+
+::: {.notes}
+Still question B, but turning it on their own work.
+The dataset example is Eck and Hultman (2007), as discussed by Holmes et al.
+Good bridge to the next reading: these are "rung 1" choices that cascade into everything below.
+:::
+
+
+
+# One Distinction to Rule Them All?
+
+Forget who / what / when / where. @dekadt2025good offer one test:
+
+> If answering the question requires that something be **manipulable**, it is causal. If not, it is descriptive.
+
+- Descriptive: *what is the world like?*
+- Causal: *what would a counterfactual world have been like?*
+
+**Discuss**
+
+- Re-vote on the warm-up. Did anything move?
+- On this view "does race affect wages?" is not a causal question, because race cannot be manipulated. Convinced?
+- Where did *prediction* go? Is two boxes enough for your own work?
+
+::: {.notes}
+Preparation sheet question C.
+Return to the warm-up slide and re-vote; question 3 (Scotland) and question 5 (training by age) are the ones that should move.
+The race and wages example is theirs: the racial earnings gap is descriptive; whether a labour market intervention narrows it is causal.
+Prediction: other typologies add predictive and prescriptive questions. Ask whether forecasting fits in "what is the world like".
+:::
+
+
+
+# The Ladder
+
+| Rung | Question | |
+|---|---|---|
+| 1. Concept | What is A? | descriptive |
+| 2. Characteristic | How often does A occur? | descriptive |
+| 3. Association | Do A and B occur together? | descriptive |
+| 4. Conditional association | ...holding other things constant? | grey zone |
+| 5. Causal effect | Does A change B? | causal |
+| 6. Mechanism | *How* does A change B? | causal |
+
+**In pairs (5 min)**: climb it. Take "phones and teenage anxiety", or your own topic, and write one question per rung.
+
+- Which rung is your dissertation question on? Which rungs above it have you skipped?
+
+::: {.notes}
+Figure 1 in de Kadt and Grzymala-Busse. Their point: you cannot answer a lower rung without being able to answer the ones above, yet researchers routinely skip rungs 1 and 2.
+The ladder is not a ranking of importance.
+Phones and anxiety is their own example of context-sensitive description (similar phone use in Europe, lower adolescent anxiety).
+:::
+
+
+
+# Good or "Mere"?
+
+Good descriptive questions do at least one of three things with **theory** [@dekadt2025good]:
+
+- **Reflect** it: measure something a theory says matters
+- **Build** it: turn up a pattern or puzzle that needs explaining
+- **Evaluate** it: check an implication a theory says should hold
+
+**Rank these from good to mere (3 min)**
+
+a. How many tweets used #Brexit on referendum day?
+b. What share of Brexit tweets have since disappeared, and from which side?
+c. How has the number of democracies changed since 1990?
+d. How long is the average speech in the House of Commons?
+
+Then rescue your bottom one: what theory would make it worth asking?
+
+::: {.notes}
+Preparation sheet question D.
+There is no fixed answer; the point is that the same question becomes "good" once a theory makes it matter. (d) is deliberately rescuable: speech length could index deliberation, gatekeeping, or party discipline.
+Follow-up: is "no theory, no value" too strict? Think of a census, exploratory work, or interpretive and qualitative research. Ask the qualitative researchers whether theory-first fits how they work.
+:::
+
+
+
+# Clear, Comparable, Complete
+
+Good descriptive *analysis*, according to @dekadt2025good:
+
+- **Clear**: obvious why we are describing this, exactly what is being asked, and how it was done
+- **Comparable**: measures mean the same thing across places, times and groups
+- **Complete**: covers what the theory needs, on the right population
+
+<br>
+
+**Discuss**
+
+- Would you change one, or add a fourth "C", for your own field?
+- If you are mainly a qualitative researcher: do these travel?
+
+::: {.notes}
+Preparation sheet question E.
+Note the trade-offs they admit: comparability pulls against sensitivity to context; completeness trades depth against breadth.
+:::
+
+
+
+# Spot the Problem
+
+Each of these is a true-sounding description. What has gone wrong, and which "C" is in trouble?
+
+::: {.incremental}
+- "No journalists have been killed in Hungary in recent years, so the press there is free."
+- "There are more democracies today than in 1950, so democracy is winning."
+- "Mean wealth summarises Norway well, so let's use it for Brazil and South Africa."
+- "Phones cause teenage anxiety: just look at the US data."
+:::
+
+::: {.notes}
+All four are examples from de Kadt and Grzymala-Busse.
+- Hungary: the same score can mean different things. Low violence may reflect control by other means, such as media ownership. Comparability of meaning.
+- Democracies: denominators and baselines. The number of countries changed too.
+- Mean wealth: the same summary is not equally informative in very unequal distributions.
+- Phones: similar phone use in Europe but lower adolescent anxiety, so a single-cause story is incomplete. Context and completeness.
+:::
+
+
+
+# Bastos (2021): The Headline
+
+*This Account Doesn't Exist: Tweet Decay and the Politics of Deletion in the Brexit Debate* [@bastos2021account]
+
+- Nearly **3 million** tweets from about **1 million** users, from the last days of the referendum campaign
+- **33%** of those tweets are no longer available (earlier studies: about 4%)
+- **20%** of the accounts are no longer active
+- More Leave tweets disappeared than the Remain side posted in total
+
+<br>
+
+**One sentence each**: so what? Why should anyone who is not a Twitter researcher care?
+
+::: {.notes}
+Figures are from the paper's abstract.
+The "so what" question is a first pass at contribution; we return to it formally on the verdict slide.
+:::
+
+
+
+
+
+
+
+
+# The Verdict
+
+**Holmes jury**: which of the four contributions does this paper make? Concepts, data, policy relevance, challenging biases?
+
+**De Kadt and Grzymala-Busse jury**: is it a *good* question? Is the analysis clear, comparable, complete?
+
+**Everyone votes**: good description, or mere description?
+
+<br>
+
+**A twist to finish**
+
+- A third of the evidence has vanished. Can a study about disappearing data be replicated?
+- Free research access to Twitter data has largely gone since 2023. What could you still describe today?
+
+::: {.notes}
+Preparation sheet, Bastos questions 5 (Holmes et al. contributions) and 6 (good description).
+Students who read only one of the two papers sit on the matching jury.
+The twist links back to Holmes et al. on data as the foundation of later analysis.
+:::
+
+
+
+# Class Test: Practice Paper 2
+
+On Moodle: *Summative assessments* > *Information and resources for the in-class test*
+
+1. **Read** the paper and pick **one** of the three projects (5 min)
+2. **Note** your first thoughts on each question, on your own (5 min)
+3. **Pair up** with someone who picked the same project. Find one point your partner made that you missed
+4. **Share**: what would a marker most want to see said about this project?
+
+<br>
+
+> There is no single best answer. Several different answers can all be very good.
+
+::: {.notes}
+Seminar activity 2.
+Link to today: ask whether each project's research questions are descriptive or causal, and whether the design matches the rung the question is on.
+:::
+
+
+
+# Design a Descriptive Study
+
+In small groups, pick one person's research topic. It does not need to be a project that is already descriptive.
+
+1. **Question**: write a descriptive, quantitative or computational question. If the topic comes with a causal question, move it *up* the ladder
+2. **Design**: sketch how you would answer it
+3. **Measurement**: how will you operationalise the key concepts?
+4. **Sampling**: which cases, and what does that choice imply?
+5. **Analysis**: in general terms, what will you do with the data?
+6. **Risks**: what is most likely to go wrong?
+
+You will not get through all six. Spend your time on the hard ones.
+
+::: {.notes}
+Seminar activity 3. Only if time allows; activities 1 and 2 come first.
+:::
+
+
+
+# Pitch It, Then Break It
+
+**Pitch (60 seconds per group)**
+
+- Your question, and the theory that makes it worth asking
+- How you would measure it, and on whom
+
+**Everyone else: break it**
+
+- Is it really descriptive, or a causal question in disguise?
+- Clear? Comparable? Complete?
+- What is the one thing this design cannot tell us?
+
+
+
+# Takeaways
+
+- Description is not a consolation prize for a failed causal design
+- A descriptive question earns its place through its link to theory
+- The choices at the top of the ladder (what is it, how do we count it) shape everything below
+- Say plainly which kind of question you are asking, then use a design that fits it
 
 
 
 # Next week - Week 10
 
 - Causation in quantitative/computational research
-- Office hours will be on Tuesdays 3-5pm
-
-
+- Office hours will be Tuesday 2--4pm
+- If you need to speak outside of these hours, please email me to arrange a meeting
 
 
 
 # References
 
 <div id="refs"></div>
-
-
- 
-# Group Exercise: Designing a Study
-
-1. **Choose a research topic**:
-   - Example: "Social Media and Mental Health."
-2. **Research Question**:
-   - Formulate a descriptive question.
-3. **Design a Research Approach**:
-   - Operationalization, sampling, analysis, risks.
